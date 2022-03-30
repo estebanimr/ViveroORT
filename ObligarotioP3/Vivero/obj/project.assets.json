@@ -1,0 +1,112 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Dominio/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/Dominio.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Dominio.dll": {}
+        }
+      },
+      "Repositorios/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "dependencies": {
+          "Dominio": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Repositorios.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Repositorios.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Dominio/1.0.0": {
+      "type": "project",
+      "path": "../Dominio/Dominio.csproj",
+      "msbuildProject": "../Dominio/Dominio.csproj"
+    },
+    "Repositorios/1.0.0": {
+      "type": "project",
+      "path": "../Repositorios/Repositorios.csproj",
+      "msbuildProject": "../Repositorios/Repositorios.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.1": [
+      "Dominio >= 1.0.0",
+      "Repositorios >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\esteb\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\esteb\\OneDrive\\Desktop\\ObliVivero\\ObligarotioP3\\Vivero\\Vivero.csproj",
+      "projectName": "Vivero",
+      "projectPath": "C:\\Users\\esteb\\OneDrive\\Desktop\\ObliVivero\\ObligarotioP3\\Vivero\\Vivero.csproj",
+      "packagesPath": "C:\\Users\\esteb\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\esteb\\OneDrive\\Desktop\\ObliVivero\\ObligarotioP3\\Vivero\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\esteb\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.1"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "projectReferences": {
+            "C:\\Users\\esteb\\OneDrive\\Desktop\\ObliVivero\\ObligarotioP3\\Dominio\\Dominio.csproj": {
+              "projectPath": "C:\\Users\\esteb\\OneDrive\\Desktop\\ObliVivero\\ObligarotioP3\\Dominio\\Dominio.csproj"
+            },
+            "C:\\Users\\esteb\\OneDrive\\Desktop\\ObliVivero\\ObligarotioP3\\Repositorios\\Repositorios.csproj": {
+              "projectPath": "C:\\Users\\esteb\\OneDrive\\Desktop\\ObliVivero\\ObligarotioP3\\Repositorios\\Repositorios.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.1": {
+        "targetAlias": "netcoreapp3.1",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.405\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
