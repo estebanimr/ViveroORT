@@ -1,0 +1,5 @@
+C:\Users\esteb\OneDrive\Desktop\ObliVivero\ObligarotioP3\Repositorios\obj\Debug\netcoreapp3.1\Repositorios.csproj.AssemblyReference.cache
+C:\Users\esteb\OneDrive\Desktop\ObliVivero\ObligarotioP3\Repositorios\obj\Debug\netcoreapp3.1\Repositorios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\esteb\OneDrive\Desktop\ObliVivero\ObligarotioP3\Repositorios\obj\Debug\netcoreapp3.1\Repositorios.AssemblyInfoInputs.cache
+C:\Users\esteb\OneDrive\Desktop\ObliVivero\ObligarotioP3\Repositorios\obj\Debug\netcoreapp3.1\Repositorios.AssemblyInfo.cs
+C:\Users\esteb\OneDrive\Desktop\ObliVivero\ObligarotioP3\Repositorios\obj\Debug\netcoreapp3.1\Repositorios.csproj.CoreCompileInputs.cache
