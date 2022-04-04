@@ -1,5 +1,0 @@
-C:\Users\esteb\OneDrive\Desktop\ObliVivero\ObligarotioP3\Vivero\obj\Debug\netcoreapp3.1\Vivero.csproj.AssemblyReference.cache
-C:\Users\esteb\OneDrive\Desktop\ObliVivero\ObligarotioP3\Vivero\obj\Debug\netcoreapp3.1\Vivero.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\esteb\OneDrive\Desktop\ObliVivero\ObligarotioP3\Vivero\obj\Debug\netcoreapp3.1\Vivero.AssemblyInfoInputs.cache
-C:\Users\esteb\OneDrive\Desktop\ObliVivero\ObligarotioP3\Vivero\obj\Debug\netcoreapp3.1\Vivero.AssemblyInfo.cs
-C:\Users\esteb\OneDrive\Desktop\ObliVivero\ObligarotioP3\Vivero\obj\Debug\netcoreapp3.1\Vivero.csproj.CoreCompileInputs.cache

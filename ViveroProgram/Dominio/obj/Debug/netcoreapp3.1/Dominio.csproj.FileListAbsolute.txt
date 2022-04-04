@@ -1,0 +1,30 @@
+D:\IMPORTANTE\ORT\Tercer semestre\P3 Adriana Cabella\Obligatorio\OblPRimeraEntrega\OblP31eraVivero\ViveroProgram\Dominio\bin\Debug\netcoreapp3.1\Dominio.deps.json
+D:\IMPORTANTE\ORT\Tercer semestre\P3 Adriana Cabella\Obligatorio\OblPRimeraEntrega\OblP31eraVivero\ViveroProgram\Dominio\bin\Debug\netcoreapp3.1\Dominio.dll
+D:\IMPORTANTE\ORT\Tercer semestre\P3 Adriana Cabella\Obligatorio\OblPRimeraEntrega\OblP31eraVivero\ViveroProgram\Dominio\bin\Debug\netcoreapp3.1\Dominio.pdb
+D:\IMPORTANTE\ORT\Tercer semestre\P3 Adriana Cabella\Obligatorio\OblPRimeraEntrega\OblP31eraVivero\ViveroProgram\Dominio\obj\Debug\netcoreapp3.1\Dominio.GeneratedMSBuildEditorConfig.editorconfig
+D:\IMPORTANTE\ORT\Tercer semestre\P3 Adriana Cabella\Obligatorio\OblPRimeraEntrega\OblP31eraVivero\ViveroProgram\Dominio\obj\Debug\netcoreapp3.1\Dominio.AssemblyInfoInputs.cache
+D:\IMPORTANTE\ORT\Tercer semestre\P3 Adriana Cabella\Obligatorio\OblPRimeraEntrega\OblP31eraVivero\ViveroProgram\Dominio\obj\Debug\netcoreapp3.1\Dominio.AssemblyInfo.cs
+D:\IMPORTANTE\ORT\Tercer semestre\P3 Adriana Cabella\Obligatorio\OblPRimeraEntrega\OblP31eraVivero\ViveroProgram\Dominio\obj\Debug\netcoreapp3.1\Dominio.csproj.CoreCompileInputs.cache
+D:\IMPORTANTE\ORT\Tercer semestre\P3 Adriana Cabella\Obligatorio\OblPRimeraEntrega\OblP31eraVivero\ViveroProgram\Dominio\obj\Debug\netcoreapp3.1\Dominio.dll
+D:\IMPORTANTE\ORT\Tercer semestre\P3 Adriana Cabella\Obligatorio\OblPRimeraEntrega\OblP31eraVivero\ViveroProgram\Dominio\obj\Debug\netcoreapp3.1\Dominio.pdb
+D:\IMPORTANTE\ORT\Tercer semestre\P3 Adriana Cabella\Obligatorio\OblPRimeraEntrega\OblP31eraVivero\ViveroProgram\Dominio\obj\Debug\netcoreapp3.1\Dominio.csproj.AssemblyReference.cache
+D:\IMPORTANTE\ORT\Tercer semestre\P3 Adriana Cabella\Obligatorio\OblPRimeraEntrega\Versiones\OblP31eraVivero\OblP31eraVivero\ViveroProgram\Dominio\obj\Debug\netcoreapp3.1\Dominio.csproj.AssemblyReference.cache
+D:\IMPORTANTE\ORT\Tercer semestre\P3 Adriana Cabella\Obligatorio\OblPRimeraEntrega\Versiones\OblP31eraVivero\OblP31eraVivero\ViveroProgram\Dominio\obj\Debug\netcoreapp3.1\Dominio.GeneratedMSBuildEditorConfig.editorconfig
+D:\IMPORTANTE\ORT\Tercer semestre\P3 Adriana Cabella\Obligatorio\OblPRimeraEntrega\Versiones\OblP31eraVivero\OblP31eraVivero\ViveroProgram\Dominio\obj\Debug\netcoreapp3.1\Dominio.AssemblyInfoInputs.cache
+D:\IMPORTANTE\ORT\Tercer semestre\P3 Adriana Cabella\Obligatorio\OblPRimeraEntrega\Versiones\OblP31eraVivero\OblP31eraVivero\ViveroProgram\Dominio\obj\Debug\netcoreapp3.1\Dominio.AssemblyInfo.cs
+D:\IMPORTANTE\ORT\Tercer semestre\P3 Adriana Cabella\Obligatorio\OblPRimeraEntrega\Versiones\OblP31eraVivero\OblP31eraVivero\ViveroProgram\Dominio\obj\Debug\netcoreapp3.1\Dominio.csproj.CoreCompileInputs.cache
+D:\IMPORTANTE\ORT\Tercer semestre\P3 Adriana Cabella\Obligatorio\OblPRimeraEntrega\Versiones\OblP31eraVivero\OblP31eraVivero\ViveroProgram\Dominio\obj\Debug\netcoreapp3.1\Dominio.dll
+D:\IMPORTANTE\ORT\Tercer semestre\P3 Adriana Cabella\Obligatorio\OblPRimeraEntrega\Versiones\OblP31eraVivero\OblP31eraVivero\ViveroProgram\Dominio\obj\Debug\netcoreapp3.1\Dominio.pdb
+D:\IMPORTANTE\ORT\Tercer semestre\P3 Adriana Cabella\Obligatorio\OblPRimeraEntrega\Versiones\OblP31eraVivero\OblP31eraVivero\ViveroProgram\Dominio\bin\Debug\netcoreapp3.1\Dominio.deps.json
+D:\IMPORTANTE\ORT\Tercer semestre\P3 Adriana Cabella\Obligatorio\OblPRimeraEntrega\Versiones\OblP31eraVivero\OblP31eraVivero\ViveroProgram\Dominio\bin\Debug\netcoreapp3.1\Dominio.dll
+D:\IMPORTANTE\ORT\Tercer semestre\P3 Adriana Cabella\Obligatorio\OblPRimeraEntrega\Versiones\OblP31eraVivero\OblP31eraVivero\ViveroProgram\Dominio\bin\Debug\netcoreapp3.1\Dominio.pdb
+C:\Users\esteb\OneDrive\Desktop\OblP31eraVivero 02-04-2022 Hora 13-31\OblP31eraVivero 02-04-2022 Hora 13-31\OblP31eraVivero\ViveroProgram\Dominio\bin\Debug\netcoreapp3.1\Dominio.deps.json
+C:\Users\esteb\OneDrive\Desktop\OblP31eraVivero 02-04-2022 Hora 13-31\OblP31eraVivero 02-04-2022 Hora 13-31\OblP31eraVivero\ViveroProgram\Dominio\bin\Debug\netcoreapp3.1\Dominio.dll
+C:\Users\esteb\OneDrive\Desktop\OblP31eraVivero 02-04-2022 Hora 13-31\OblP31eraVivero 02-04-2022 Hora 13-31\OblP31eraVivero\ViveroProgram\Dominio\bin\Debug\netcoreapp3.1\Dominio.pdb
+C:\Users\esteb\OneDrive\Desktop\OblP31eraVivero 02-04-2022 Hora 13-31\OblP31eraVivero 02-04-2022 Hora 13-31\OblP31eraVivero\ViveroProgram\Dominio\obj\Debug\netcoreapp3.1\Dominio.csproj.AssemblyReference.cache
+C:\Users\esteb\OneDrive\Desktop\OblP31eraVivero 02-04-2022 Hora 13-31\OblP31eraVivero 02-04-2022 Hora 13-31\OblP31eraVivero\ViveroProgram\Dominio\obj\Debug\netcoreapp3.1\Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\esteb\OneDrive\Desktop\OblP31eraVivero 02-04-2022 Hora 13-31\OblP31eraVivero 02-04-2022 Hora 13-31\OblP31eraVivero\ViveroProgram\Dominio\obj\Debug\netcoreapp3.1\Dominio.AssemblyInfoInputs.cache
+C:\Users\esteb\OneDrive\Desktop\OblP31eraVivero 02-04-2022 Hora 13-31\OblP31eraVivero 02-04-2022 Hora 13-31\OblP31eraVivero\ViveroProgram\Dominio\obj\Debug\netcoreapp3.1\Dominio.AssemblyInfo.cs
+C:\Users\esteb\OneDrive\Desktop\OblP31eraVivero 02-04-2022 Hora 13-31\OblP31eraVivero 02-04-2022 Hora 13-31\OblP31eraVivero\ViveroProgram\Dominio\obj\Debug\netcoreapp3.1\Dominio.csproj.CoreCompileInputs.cache
+C:\Users\esteb\OneDrive\Desktop\OblP31eraVivero 02-04-2022 Hora 13-31\OblP31eraVivero 02-04-2022 Hora 13-31\OblP31eraVivero\ViveroProgram\Dominio\obj\Debug\netcoreapp3.1\Dominio.dll
+C:\Users\esteb\OneDrive\Desktop\OblP31eraVivero 02-04-2022 Hora 13-31\OblP31eraVivero 02-04-2022 Hora 13-31\OblP31eraVivero\ViveroProgram\Dominio\obj\Debug\netcoreapp3.1\Dominio.pdb
