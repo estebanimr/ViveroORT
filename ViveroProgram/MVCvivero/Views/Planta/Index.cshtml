@@ -1,0 +1,86 @@
+﻿@model IEnumerable<Dominio.EntidadesNegocio.Planta>
+@*@model IEnumerable<MVCvivero.Models.ViewModelPlanta>*@
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<body class="container-fluid bg-dark text-light">
+
+    <div class="row">
+        <div class="col-12">
+            <h1 class="text-center">Plantas</h1>
+
+            <p class="h5 text-center">
+                <a asp-action="Create">Crear Nueva Planta</a> - <a asp-action="BuscarPorAlturas">Busquedas por altura</a> - <a asp-action="BuscarPlantasPorAmbiente">Busquedas por ambiente</a> - <a asp-action="BuscarPlantaPorParteDelTextoNombre">Busquedas por texto</a> -
+                <a asp-action="BuscarPlantaXTP">Busquedas por Tipo Planta</a>
+            </p>
+        </div>
+    </div>
+
+    <table class="table text-light pb-5">
+        <thead>
+            <tr>
+                <th>Foto</th>
+                <th>Nombre Cientifico</th>
+                <th>Nombres Vulgares</th>
+                <th>Descripcion</th>
+                <th>Tipo de Ambiente</th>
+                <th>Cantidad de Riego</th>
+                <th>Unidad de Riego</th>
+                <th>Temperatura</th>
+                <th>Tipo de Iluminacion</th>
+                <th>Tipo de Planta</th>
+                <th>
+
+                </th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>
+                        @foreach (var foto in item.FotosDePlanta)
+                        {
+
+                            <img src="~/img/@foto.NombreFoto" height="60" />
+                        }
+                    </td>
+
+                    <td>
+                        @Html.DisplayFor(modelItem => item.NombreCientifico)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.NombresVulgares)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.DescripcionPlanta)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.TipoAmbiente)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.CuidadosPlanta.CantidadFrecRiego)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.CuidadosPlanta.UnidadFrecRiego)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.CuidadosPlanta.Temperatura)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.CuidadosPlanta.TipoIluminacion.NombreTipoIluminacion)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Tipo.NomTipoPlanta)
+                    </td>
+                    <td>
+                        @Html.ActionLink("CuidadosPlanta", "CuidadosPlanta", new { id = item.IdPlanta })
+                        @*@Html.ActionLink("Eliminar", "Delete", new { id = item.IdPlanta })*@
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</body>

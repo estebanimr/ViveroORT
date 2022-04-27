@@ -1,0 +1,67 @@
+﻿@model Dominio.EntidadesNegocio.TipoPlanta
+
+@{
+    ViewData["Title"] = "Edit";
+}
+<body class="container-fluid bg-dark text-light">
+    <div class="row justify-content-center">
+        <div class="col-5">
+
+            <h1>Editar Tipo de Planta</h1>
+            <hr />
+            <span class="text-danger">@ViewBag.Error</span>
+
+            <form asp-action="Edit" id="formEditTP">
+                <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+                <div class="form-group d-none">
+                    <label asp-for="Id" class="control-label">ID</label>
+                    <input asp-for="Id" class="form-control" readonly />
+                    <span asp-validation-for="Id" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <label asp-for="NomTipoPlanta" class="control-label">Nombre de Tipo Planta</label>
+                    <input asp-for="NomTipoPlanta" class="form-control" id="nomTP" />
+                    <span asp-validation-for="NomTipoPlanta" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <label asp-for="DescTipoPlanta" class="control-label">Descripcion de Tipo Planta:</label>
+                    <input asp-for="DescTipoPlanta" class="form-control" id="descTP" />
+                    <span asp-validation-for="DescTipoPlanta" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <input type="submit" value="Salvar Cambios" class="btn btn-primary" />
+                </div>
+
+                <p id="pMensaje" class="text-danger"></p>
+            </form>
+
+
+            <div class="p-2">
+                <a asp-action="Index">Back to List</a>
+            </div>
+        </div>
+    </div>
+</body>
+
+@section Scripts {
+    <script>
+        document.querySelector("#formEditTP").addEventListener('submit', FormEditTP);
+
+        function FormEditTP(evento) {
+            evento.preventDefault();
+
+            let nombreTP = document.querySelector("#nomTP").value;
+            let descripcionTP = document.querySelector("#descTP").value;
+            let mensaje = "";
+
+            if (nombreTP != "" && descripcionTP != "") {
+                this.submit();
+            } else {
+                mensaje = "Error en el ingreso de datos";
+            }
+            document.querySelector("#pMensaje").innerHTML = mensaje;
+        }
+
+    </script>
+}
+

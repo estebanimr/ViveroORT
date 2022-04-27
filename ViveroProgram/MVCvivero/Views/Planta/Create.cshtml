@@ -1,0 +1,172 @@
+﻿@*@model Dominio.EntidadesNegocio.Planta*@
+
+@model MVCvivero.Models.ViewModelPlanta
+@using Dominio.EntidadesNegocio;
+
+@{
+    ViewData["Title"] = "Create";
+}
+<body class="bg-dark text-light mb-3 pb-5">
+    <div class="row justify-content-center">
+        <div class="col-5">
+            <h1>Crear una Planta</h1>
+            <h4>Planta</h4>
+            <span class="alert-danger">@ViewBag.Error</span>
+
+            <form enctype="multipart/form-data" asp-action="Create" id="formCreatePlanta">
+                <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+                <div class="form-group">
+                    <label asp-for="Planta.NombreCientifico" class="control-label">Nombre Cientifico:</label>
+                    <input asp-for="Planta.NombreCientifico" class="form-control" id="nomCien" />
+                    <span asp-validation-for="Planta.NombreCientifico" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <label asp-for="Planta.NombresVulgares" class="control-label">Nombres Vulgares:</label>
+                    <input asp-for="Planta.NombresVulgares" class="form-control" id="nomVulg" />
+                    <span asp-validation-for="Planta.NombresVulgares" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <label asp-for="Planta.DescripcionPlanta" class="control-label">Descripcion de Planta:</label>
+                    <input asp-for="Planta.DescripcionPlanta" class="form-control" id="descPlanta" />
+                    <span asp-validation-for="Planta.DescripcionPlanta" class="text-danger"></span>
+                </div>
+
+                @* USANDO ViewMODEL *@
+                <div class="form-group">
+                    <label asp-for="Imagenes">Foto de Planta:</label><br />
+                    <input asp-for="Imagenes" id="foto"/>
+                    <span asp-validation-for="Imagenes" class="text-danger"></span>
+                </div>
+
+                <div class="form-group">
+                    <label class="control-label">Tipo de Ambiente:</label><br />
+                    <select name="ambiente" class="form-control" id="selAmbiente">
+                        <option value="-1" disabled selected>Seleccione una opcion</option>
+                        <option value="interior">Interior</option>
+                        <option value="exterior">Exterior</option>
+                        <option value="mixta">Mixta</option>
+                    </select>
+                </div>
+
+                @* USANDO ViewMODEL*@
+                <div class="form-group">
+                    <label class="control-label">Tipo de Iluminacion:</label><br />
+                    <select name="idTipoIluminacionSeleccionada" class="form-control" id="selTPIlu">
+                        <option value="-1" disabled selected>Seleccione una opcion</option>
+                        @foreach (TipoIluminacion ti in Model.ListaTipoIluminacion)
+                        {
+                            <option value=@ti.IdTipoIluminacion>@ti.NombreTipoIluminacion</option>
+                        }
+                    </select>
+                </div>
+
+                @* USANDO ViewMODEL*@
+                <div class="form-group">
+                    <label class="control-label">Tipo de Planta:</label><br />
+                    <select name="idTipoPlantaSeleccionada" class="form-control" id="selTP">
+                        <option value="-1" disabled selected>Seleccione una opcion</option>
+                        @foreach (TipoPlanta tp in Model.ListaTipoPlanta)
+                        {
+                            <option value=@tp.Id>@tp.NomTipoPlanta</option>
+                        }
+                    </select>
+                </div>
+
+                <div class="form-group">
+                    <label asp-for="CuidadosPlanta.CantidadFrecRiego" class="control-label">Cantidad de Riego:</label>
+                    <input asp-for="CuidadosPlanta.CantidadFrecRiego" class="form-control" id="frecRiego" />
+                    <span asp-validation-for="CuidadosPlanta.CantidadFrecRiego" class="text-danger"></span>
+                </div>
+
+                <div class="form-group">
+                    <label asp-for="CuidadosPlanta.UnidadFrecRiego" class="control-label">Unidad de Riego:</label>
+                    <select asp-for="CuidadosPlanta.UnidadFrecRiego" class="form-control" id="selUnidadRiego">
+                        <option value="-1" disabled selected>Seleccione una opcion</option>
+                        <option value="dias">Dias</option>
+                        <option value="semanas">Semanas</option>
+                        <option value="meses">Meses</option>
+                        <option value="años">Años</option>
+                    </select>
+                    <span asp-validation-for="CuidadosPlanta.UnidadFrecRiego" class="text-danger"></span>
+                </div>
+
+                <div class="form-group">
+                    <label asp-for="CuidadosPlanta.Temperatura" class="control-label">Temperatura:</label>
+                    <input asp-for="CuidadosPlanta.Temperatura" type="number" class="form-control" id="temp" />
+                    <span asp-validation-for="CuidadosPlanta.Temperatura" class="text-danger"></span>
+                </div>
+
+                <div class="form-group">
+                    <label asp-for="Altura" class="control-label">Altura de Planta:</label>
+                    <input asp-for="Altura" class="form-control" id="altura" />
+                    <span asp-validation-for="Altura" class="text-danger"></span>
+                </div>
+
+                <div class="form-group">
+                    <input type="submit" value="Crear una Planta" class="btn btn-primary" />
+                </div>
+
+                <p id="pMensaje" class="text-danger"></p>
+            </form>
+            <div class="pb-5">
+                <a asp-action="Index">Back to List</a>
+            </div>
+        </div>
+    </div>
+</body>
+
+@section Scripts {
+    <script>
+        document.querySelector("#formCreatePlanta").addEventListener('submit', FormCreatePlanta);
+
+        function FormCreatePlanta(evento) {
+            evento.preventDefault();
+
+            let nombreC = document.querySelector("#nomCien").value;
+            let nombreVul = document.querySelector("#nomVulg").value;
+            let descripcionP = document.querySelector("#descPlanta").value;
+            let selAmb = document.querySelector("#selAmbiente").value;
+            let selTipoIlu = document.querySelector("#selTPIlu").value;
+            let selTipoP = document.querySelector("#selTP").value;
+            let frecuenciaR = document.querySelector("#frecRiego").value;
+            let selUnidadR = document.querySelector("#selUnidadRiego").value;
+            let temperatura = document.querySelector("#temp").value;
+            let alturaCm = document.querySelector("#altura").value;
+
+            let mensaje = "";
+
+            if (nombreC != "") {
+                if (nombreVul != "") {
+                    if (descripcionP != "") {
+                        if (frecuenciaR > 0) {
+                            if (temperatura != undefined) {
+                                if (alturaCm > 0) {                                   
+                                        if (selAmb != "-1" && selTipoIlu != "-1" && selTipoP != "-1" && selUnidadR != "-1") {
+                                            this.submit();
+                                        } else {
+                                            mensaje = "Revise que todos los desplegables tengan una opcion seleccionada";
+                                        }                                                            
+                                } else {
+                                    mensaje = "La Altura debe ser mayor a cero."
+                                }
+                            } else {
+                                mensaje = "La Temperatura debe ser ingresada.";
+                            }
+                        } else {
+                            mensaje = "La Cantidad de Riego debe ser mayor a cero.";
+                        }
+                    } else {
+                        mensaje = "Debe completar los datos en Descripcion.";
+                    }
+                } else {
+                    mensaje = "Debe completar los datos en Nombre Vulgar.";
+                }
+            } else {
+                mensaje = "Debe completar los datos en Nombre Cientifico.";
+            }
+  
+            document.querySelector("#pMensaje").innerHTML = mensaje;
+
+        }
+    </script>
+}

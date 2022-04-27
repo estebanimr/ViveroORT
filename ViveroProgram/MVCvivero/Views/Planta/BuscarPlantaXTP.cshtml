@@ -1,0 +1,106 @@
+﻿@*@model IEnumerable<Dominio.EntidadesNegocio.Planta>*@
+
+@{
+    ViewData["Title"] = "BuscarPlantaXTP";
+}
+
+<body class="bg-dark text-light">
+    <div class="row justify-content-center">
+        <div class="col-5">
+
+            <h1 class="text-center">Buscar Planta por Tipo de Planta</h1>
+            <form method="post" id="formXTP">
+                <label class="control-label"> Seleccione un Tipo de Planta</label>
+                <select name="tipoPlanta" class="form-control" id="selXTP">
+                    <option value="-1" disabled selected>Seleccione una opcion</option>
+                    @foreach (var tp in ViewBag.LstTP)
+                    {
+                        <option value="@tp.Id">@tp.NomTipoPlanta</option>
+                    }
+                </select>
+                <br />
+                <input type="submit" value="Listar Plantas por Tipo" class="btn btn-primary" />
+            </form>
+                <p id="pMensaje" class="text-danger pt-2"></p>
+
+            <span class="text-danger">@ViewBag.Error</span>
+            <div class="pb-2">
+                <a asp-action="Index">Back to List</a>
+            </div>
+
+        </div>
+    </div>
+
+
+    @if (ViewBag.P > 0)
+    {
+        <table class="table text-light">
+            <thead>
+                <tr>
+
+                    <th>
+                        NombreCientifico
+                    </th>
+                    <th>
+                        NombresVulgares
+                    </th>
+                    <th>
+                        DescripcionPlanta
+                    </th>
+                    <th>
+                        TipoAmbiente
+                    </th>
+                    <th></th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var item in ViewBag.LstPlantas)
+                {
+                    <tr>
+
+                        <td>
+                            @item.NombreCientifico
+                        </td>
+                        <td>
+                            @item.NombresVulgares
+                        </td>
+                        <td>
+                            @item.DescripcionPlanta
+                        </td>
+                        <td>
+                            @item.TipoAmbiente
+                        </td>
+
+                    </tr>
+                }
+
+
+
+            </tbody>
+        </table>
+    }
+
+</body>
+
+
+@section Scripts {
+    <script>
+        document.querySelector("#formXTP").addEventListener('submit', FormXTP);
+
+        function FormXTP(evento) {
+            evento.preventDefault();
+
+            let selPorTP = document.querySelector("#selXTP").value;
+           
+            let mensaje = "";
+
+            if (selPorTP != "-1" ) {
+                this.submit();
+            } else {
+                mensaje = "Debe seleccionar un Tipo de Planta del campo desplegable";
+            }
+            document.querySelector("#pMensaje").innerHTML = mensaje;
+        }
+
+    </script>
+}

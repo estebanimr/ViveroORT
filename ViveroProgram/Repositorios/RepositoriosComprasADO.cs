@@ -1,6 +1,5 @@
 using Dominio.EntidadesNegocio;
-using Repositorios;
-using Dominio.OtrasInterfaces;
+using Dominio.InterfacesRepositorios;
 using System.Collections.Generic;
 
 namespace Repositorios

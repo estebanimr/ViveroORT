@@ -1,0 +1,133 @@
+﻿@model IEnumerable<Dominio.EntidadesNegocio.Planta>
+
+@{
+    ViewData["Title"] = "BuscarPorAlturas";
+}
+
+<body class="bg-dark text-light">
+
+    <div class="row justify-content-center">
+        <div class="col-5">
+            <h1 class="text-center">Buscar Plantas por Altura</h1>
+            <form enctype="multipart/form-data" method="post" id="formAlturas">
+                <label class="control-label" for="idAltura">Ingrese una altura en centimetros: </label><br />
+                <input class="form-control" type="number" name="altura" value="" id="idAltura" /> <br />
+                <label class="control-label" for="idSlcTipoAltura">Buscar por: </label><br />
+                <select class="form-control" id="idSlcTipoAltura" name="tipoAltura">
+                    <option value="-1" disabled selected>Seleccione una opcion</option>
+                    <option value="alturaMaxima">Maxima altura</option>
+                    <option value="alturaMinima">Minima altura</option>
+                </select><br />
+                <div class="form-group">
+                    <input type="submit" value="Buscar" class="btn btn-primary" />
+                </div>
+                <p id="pMensaje" class="text-danger"></p>
+            </form>
+            <span class="text-danger">@ViewBag.Error</span>
+            <div class="pb-2">
+                <a asp-action="Index">Back to List</a>
+            </div>
+        </div>
+    </div>
+
+    <div class="row">
+        <div class="col-12">
+
+            @if (ViewBag.Buscando == "ok")
+            {
+                <table class="table text-light">
+                    <thead>
+                        <tr>
+                            <th>
+                                Foto
+                            </th>
+                            <th>
+                                Nombre cientifico
+                            </th>
+                            <th>
+                                Nombres vulgares
+                            </th>
+                            <th>
+                                Descripcion
+                            </th>
+                            <th>
+                                Tipo de ambiente
+                            </th>
+                            <th>
+                                Tipo de planta
+                            </th>
+                            <th>
+                                Altura
+                            </th>
+                            <th></th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        @foreach (var item in Model)
+                        {
+                            <tr>
+                                <td>
+                                    @foreach (var foto in item.FotosDePlanta)
+                                    {
+
+                                        <img src="~/img/@foto.NombreFoto" height="60" />
+                                    }
+                                </td>
+                                <td>
+                                    @Html.DisplayFor(modelItem => item.NombreCientifico)
+                                </td>
+                                <td>
+                                    @Html.DisplayFor(modelItem => item.NombresVulgares)
+                                </td>
+                                <td>
+                                    @Html.DisplayFor(modelItem => item.DescripcionPlanta)
+                                </td>
+                                <td>
+                                    @Html.DisplayFor(modelItem => item.TipoAmbiente)
+                                </td>
+                                <td>
+                                    @Html.DisplayFor(modelItem => item.Tipo.NomTipoPlanta)
+                                </td>
+                                <td>
+                                    @Html.DisplayFor(modelItem => item.AlturaMaxima.ValorParametro)
+                                </td>
+                                <td>
+                                    @Html.ActionLink("CuidadosPlanta", "CuidadosPlanta", new { id = item.IdPlanta })
+                                </td>
+
+                            </tr>
+                        }
+                    </tbody>
+                </table>
+            }
+        </div>
+    </div>
+</body>
+
+
+@section Scripts {
+    <script>
+        document.querySelector("#formAlturas").addEventListener('submit', FormXAltura);
+
+        function FormXAltura(evento) {
+            evento.preventDefault();
+
+            let alturaCm = document.querySelector("#idAltura").value;
+            let selTipoAltura = document.querySelector("#idSlcTipoAltura").value;
+
+            let mensaje = "";
+
+            if (alturaCm > 0) {
+                if (selTipoAltura != "-1") {
+                    this.submit();
+                } else {
+                    mensaje = "Debe seleccionar un Tipo de Altura";
+                }              
+            } else {
+                mensaje = "Indique un valor de Altura en cm";
+            }
+            document.querySelector("#pMensaje").innerHTML = mensaje;
+        }
+
+    </script>
+}

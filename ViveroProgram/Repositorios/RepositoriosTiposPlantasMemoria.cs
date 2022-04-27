@@ -1,6 +1,5 @@
 using Dominio.EntidadesNegocio;
 using Dominio.InterfacesRepositorios;
-using Dominio.OtrasInterfaces;
 using System.Collections.Generic;
 
 namespace Repositorios
@@ -12,7 +11,7 @@ namespace Repositorios
         public bool Add(TipoPlanta obj)
         {
             bool ok = false;
-            if (obj != null )
+            if (obj != null)
             {
                 obj.Id = ultimoID ++;
                 TiposPlantas.Add(obj);
@@ -85,8 +84,7 @@ namespace Repositorios
             return resultadoUpdate;
         }
 
-
-
+       
     }
 
 

@@ -1,0 +1,84 @@
+﻿@model Dominio.EntidadesNegocio.TipoPlanta
+
+@{
+    ViewData["Title"] = "Delete";
+}
+<body class="container-fluid bg-dark text-light">
+    <div class="row justify-content-center">
+        <div class="col-5">
+            <h1>Eliminar Tipo Planta</h1>
+            <h3>Esta seguro de querer eliminar este tipo de planta?</h3>
+            <hr />
+            <span class="text-danger">@ViewBag.Error</span>
+            <dl class="row">
+                <dt class="col-sm-2">
+                    @Html.DisplayNameFor(model => model.Id)
+                </dt>
+                <dd class="col-sm-10">
+                    @Html.DisplayFor(model => model.Id)
+                </dd>
+                <dt class="col-sm-2">
+                    @Html.DisplayNameFor(model => model.NomTipoPlanta)
+                </dt>
+                <dd class="col-sm-10">
+                    @Html.DisplayFor(model => model.NomTipoPlanta)
+                </dd>
+                <dt class="col-sm-2">
+                    @Html.DisplayNameFor(model => model.DescTipoPlanta)
+                </dt>
+                <dd class="col-sm-10">
+                    @Html.DisplayFor(model => model.DescTipoPlanta)
+                </dd>
+            </dl>
+
+            <form asp-action="Delete" onsubmit="return confirm('Esta Seguro de Eliminar');">
+                <input type="submit" value="Delete" class="btn btn-danger" /> |
+                <a asp-action="Index">Back to List</a>
+            </form>
+
+
+
+
+            @*@model Dominio.EntidadesNegocio.TipoPlanta
+
+                @{
+                    ViewData["Title"] = "Delete";
+                }
+                <body class="container-fluid bg-dark text-light">
+                    <h1>Eliminar</h1>
+
+                    <h3>Esta seguro de querer eliminar Tipo Planta?</h3>
+                    <div>
+                        <h4>Eliminar Tipo Planta</h4>
+                        <hr />
+                        <span class="text-danger">@ViewBag.Error</span>
+                        <dl class="row">
+                            <dt class="col-sm-2">
+                                @Html.DisplayNameFor(model => model.Id)
+                            </dt>
+                            <dd class="col-sm-10">
+                                @Html.DisplayFor(model => model.Id)
+                            </dd>
+                            <dt class="col-sm-2">
+                                @Html.DisplayNameFor(model => model.NomTipoPlanta)
+                            </dt>
+                            <dd class="col-sm-10">
+                                @Html.DisplayFor(model => model.NomTipoPlanta)
+                            </dd>
+                            <dt class="col-sm-2">
+                                @Html.DisplayNameFor(model => model.DescTipoPlanta)
+                            </dt>
+                            <dd class="col-sm-10">
+                                @Html.DisplayFor(model => model.DescTipoPlanta)
+                            </dd>
+                        </dl>
+
+                        <form asp-action="Delete">
+                            <input type="submit" value="Eliminar Tipo Planta" class="btn btn-danger" /> |
+                            <a asp-action="Index">Back to List</a>
+                        </form>
+                    </div>
+                </body>*@
+        </div>
+    </div>
+</body>

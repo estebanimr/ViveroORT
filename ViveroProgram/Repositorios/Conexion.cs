@@ -1,20 +1,29 @@
 ﻿using System;
-using System.Collections.Generic;
 using System.Data;
-using System.Text;
 using Microsoft.Data.SqlClient;
+using Microsoft.Extensions.Configuration;
+using Microsoft.Extensions;
 namespace Repositorios
 {
    public class Conexion
     {
-        private string cadenaConexion = @"SERVER=(localdb)\mssqllocaldb;
-                                DATABASE=viveroP3;
-                                INTEGRATED SECURITY= true;
-                                TrustServerCertificate=true";
+
+        //private string cadenaConexion = @"SERVER=(localdb)\mssqllocaldb;
+        //                        DATABASE=viveroP3;
+        //                        INTEGRATED SECURITY= true;
+        //                        TrustServerCertificate=true";
+
+        public static string ObtenerConexion()
+        {
+            string CadenaConexion = "";
+            IConfiguration config = new ConfigurationBuilder().AddJsonFile("appsettings.json").Build();
+            CadenaConexion = config.GetConnectionString("MiConexion");
+            return CadenaConexion;
+        }
 
         public SqlConnection CrearConexion()
         {
-            return new SqlConnection(cadenaConexion);
+            return new SqlConnection(ObtenerConexion());
         }
 
         public bool AbrirConexion(SqlConnection cn)
@@ -30,8 +39,9 @@ namespace Repositorios
             }
             catch (Exception ex)
             {
-
+                
                 return false;
+                throw new Exception(ex.Message + "No se pudo abrir la conexion");
             }
             finally
             {
@@ -54,6 +64,7 @@ namespace Repositorios
             catch (Exception ex)
             {
                 return false;
+                throw new Exception(ex.Message + "No se pudo cerrar la conexion");
             }
             finally
             {
@@ -77,6 +88,7 @@ namespace Repositorios
             catch (Exception ex)
             {
                 return false;
+                throw new Exception(ex.Message + "No se pudo cerrarCLOSE la conexion");
             }
             finally
             {

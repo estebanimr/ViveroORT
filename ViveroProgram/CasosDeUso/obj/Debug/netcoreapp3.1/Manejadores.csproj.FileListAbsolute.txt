@@ -1,0 +1,195 @@
+C:\Users\Usuario\Desktop\obl ultima\Versiones\OblP31eraVivero14 - 18-04-2022 Hora 10-53\ViveroProgram\CasosDeUso\bin\Debug\netcoreapp3.1\Manejadores.deps.json
+C:\Users\Usuario\Desktop\obl ultima\Versiones\OblP31eraVivero14 - 18-04-2022 Hora 10-53\ViveroProgram\CasosDeUso\bin\Debug\netcoreapp3.1\Manejadores.dll
+C:\Users\Usuario\Desktop\obl ultima\Versiones\OblP31eraVivero14 - 18-04-2022 Hora 10-53\ViveroProgram\CasosDeUso\bin\Debug\netcoreapp3.1\Manejadores.pdb
+C:\Users\Usuario\Desktop\obl ultima\Versiones\OblP31eraVivero14 - 18-04-2022 Hora 10-53\ViveroProgram\CasosDeUso\bin\Debug\netcoreapp3.1\Dominio.dll
+C:\Users\Usuario\Desktop\obl ultima\Versiones\OblP31eraVivero14 - 18-04-2022 Hora 10-53\ViveroProgram\CasosDeUso\bin\Debug\netcoreapp3.1\Repositorios.dll
+C:\Users\Usuario\Desktop\obl ultima\Versiones\OblP31eraVivero14 - 18-04-2022 Hora 10-53\ViveroProgram\CasosDeUso\bin\Debug\netcoreapp3.1\Dominio.pdb
+C:\Users\Usuario\Desktop\obl ultima\Versiones\OblP31eraVivero14 - 18-04-2022 Hora 10-53\ViveroProgram\CasosDeUso\bin\Debug\netcoreapp3.1\Repositorios.pdb
+C:\Users\Usuario\Desktop\obl ultima\Versiones\OblP31eraVivero14 - 18-04-2022 Hora 10-53\ViveroProgram\CasosDeUso\obj\Debug\netcoreapp3.1\Manejadores.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\obl ultima\Versiones\OblP31eraVivero14 - 18-04-2022 Hora 10-53\ViveroProgram\CasosDeUso\obj\Debug\netcoreapp3.1\Manejadores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\obl ultima\Versiones\OblP31eraVivero14 - 18-04-2022 Hora 10-53\ViveroProgram\CasosDeUso\obj\Debug\netcoreapp3.1\Manejadores.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\obl ultima\Versiones\OblP31eraVivero14 - 18-04-2022 Hora 10-53\ViveroProgram\CasosDeUso\obj\Debug\netcoreapp3.1\Manejadores.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\obl ultima\Versiones\OblP31eraVivero14 - 18-04-2022 Hora 10-53\ViveroProgram\CasosDeUso\obj\Debug\netcoreapp3.1\Manejadores.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\obl ultima\Versiones\OblP31eraVivero14 - 18-04-2022 Hora 10-53\ViveroProgram\CasosDeUso\obj\Debug\netcoreapp3.1\Manejadores.csproj.CopyComplete
+C:\Users\Usuario\Desktop\obl ultima\Versiones\OblP31eraVivero14 - 18-04-2022 Hora 10-53\ViveroProgram\CasosDeUso\obj\Debug\netcoreapp3.1\Manejadores.dll
+C:\Users\Usuario\Desktop\obl ultima\Versiones\OblP31eraVivero14 - 18-04-2022 Hora 10-53\ViveroProgram\CasosDeUso\obj\Debug\netcoreapp3.1\Manejadores.pdb
+C:\Users\Usuario\Desktop\obl ultima\para comprimir\OblP31eraVivero 15 - 18-04-2022 Hora 18-08\ViveroProgram\CasosDeUso\bin\Debug\netcoreapp3.1\Manejadores.deps.json
+C:\Users\Usuario\Desktop\obl ultima\para comprimir\OblP31eraVivero 15 - 18-04-2022 Hora 18-08\ViveroProgram\CasosDeUso\bin\Debug\netcoreapp3.1\Manejadores.dll
+C:\Users\Usuario\Desktop\obl ultima\para comprimir\OblP31eraVivero 15 - 18-04-2022 Hora 18-08\ViveroProgram\CasosDeUso\bin\Debug\netcoreapp3.1\Manejadores.pdb
+C:\Users\Usuario\Desktop\obl ultima\para comprimir\OblP31eraVivero 15 - 18-04-2022 Hora 18-08\ViveroProgram\CasosDeUso\bin\Debug\netcoreapp3.1\Dominio.dll
+C:\Users\Usuario\Desktop\obl ultima\para comprimir\OblP31eraVivero 15 - 18-04-2022 Hora 18-08\ViveroProgram\CasosDeUso\bin\Debug\netcoreapp3.1\Repositorios.dll
+C:\Users\Usuario\Desktop\obl ultima\para comprimir\OblP31eraVivero 15 - 18-04-2022 Hora 18-08\ViveroProgram\CasosDeUso\bin\Debug\netcoreapp3.1\Dominio.pdb
+C:\Users\Usuario\Desktop\obl ultima\para comprimir\OblP31eraVivero 15 - 18-04-2022 Hora 18-08\ViveroProgram\CasosDeUso\bin\Debug\netcoreapp3.1\Repositorios.pdb
+C:\Users\Usuario\Desktop\obl ultima\para comprimir\OblP31eraVivero 15 - 18-04-2022 Hora 18-08\ViveroProgram\CasosDeUso\obj\Debug\netcoreapp3.1\Manejadores.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\obl ultima\para comprimir\OblP31eraVivero 15 - 18-04-2022 Hora 18-08\ViveroProgram\CasosDeUso\obj\Debug\netcoreapp3.1\Manejadores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\obl ultima\para comprimir\OblP31eraVivero 15 - 18-04-2022 Hora 18-08\ViveroProgram\CasosDeUso\obj\Debug\netcoreapp3.1\Manejadores.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\obl ultima\para comprimir\OblP31eraVivero 15 - 18-04-2022 Hora 18-08\ViveroProgram\CasosDeUso\obj\Debug\netcoreapp3.1\Manejadores.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\obl ultima\para comprimir\OblP31eraVivero 15 - 18-04-2022 Hora 18-08\ViveroProgram\CasosDeUso\obj\Debug\netcoreapp3.1\Manejadores.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\obl ultima\para comprimir\OblP31eraVivero 15 - 18-04-2022 Hora 18-08\ViveroProgram\CasosDeUso\obj\Debug\netcoreapp3.1\Manejadores.csproj.CopyComplete
+C:\Users\Usuario\Desktop\obl ultima\para comprimir\OblP31eraVivero 15 - 18-04-2022 Hora 18-08\ViveroProgram\CasosDeUso\obj\Debug\netcoreapp3.1\Manejadores.dll
+C:\Users\Usuario\Desktop\obl ultima\para comprimir\OblP31eraVivero 15 - 18-04-2022 Hora 18-08\ViveroProgram\CasosDeUso\obj\Debug\netcoreapp3.1\Manejadores.pdb
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 3\Programacion 3\OBLIGATORIO P3\OblP31eraVivero16 - 19-04-2022 Hora 16-08\ViveroProgram\CasosDeUso\bin\Debug\netcoreapp3.1\Manejadores.deps.json
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 3\Programacion 3\OBLIGATORIO P3\OblP31eraVivero16 - 19-04-2022 Hora 16-08\ViveroProgram\CasosDeUso\bin\Debug\netcoreapp3.1\Manejadores.dll
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 3\Programacion 3\OBLIGATORIO P3\OblP31eraVivero16 - 19-04-2022 Hora 16-08\ViveroProgram\CasosDeUso\bin\Debug\netcoreapp3.1\Manejadores.pdb
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 3\Programacion 3\OBLIGATORIO P3\OblP31eraVivero16 - 19-04-2022 Hora 16-08\ViveroProgram\CasosDeUso\bin\Debug\netcoreapp3.1\Dominio.dll
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 3\Programacion 3\OBLIGATORIO P3\OblP31eraVivero16 - 19-04-2022 Hora 16-08\ViveroProgram\CasosDeUso\bin\Debug\netcoreapp3.1\Repositorios.dll
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 3\Programacion 3\OBLIGATORIO P3\OblP31eraVivero16 - 19-04-2022 Hora 16-08\ViveroProgram\CasosDeUso\bin\Debug\netcoreapp3.1\Dominio.pdb
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 3\Programacion 3\OBLIGATORIO P3\OblP31eraVivero16 - 19-04-2022 Hora 16-08\ViveroProgram\CasosDeUso\bin\Debug\netcoreapp3.1\Repositorios.pdb
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 3\Programacion 3\OBLIGATORIO P3\OblP31eraVivero16 - 19-04-2022 Hora 16-08\ViveroProgram\CasosDeUso\obj\Debug\netcoreapp3.1\Manejadores.csproj.AssemblyReference.cache
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 3\Programacion 3\OBLIGATORIO P3\OblP31eraVivero16 - 19-04-2022 Hora 16-08\ViveroProgram\CasosDeUso\obj\Debug\netcoreapp3.1\Manejadores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 3\Programacion 3\OBLIGATORIO P3\OblP31eraVivero16 - 19-04-2022 Hora 16-08\ViveroProgram\CasosDeUso\obj\Debug\netcoreapp3.1\Manejadores.AssemblyInfoInputs.cache
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 3\Programacion 3\OBLIGATORIO P3\OblP31eraVivero16 - 19-04-2022 Hora 16-08\ViveroProgram\CasosDeUso\obj\Debug\netcoreapp3.1\Manejadores.AssemblyInfo.cs
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 3\Programacion 3\OBLIGATORIO P3\OblP31eraVivero16 - 19-04-2022 Hora 16-08\ViveroProgram\CasosDeUso\obj\Debug\netcoreapp3.1\Manejadores.csproj.CoreCompileInputs.cache
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 3\Programacion 3\OBLIGATORIO P3\OblP31eraVivero16 - 19-04-2022 Hora 16-08\ViveroProgram\CasosDeUso\obj\Debug\netcoreapp3.1\Manejadores.csproj.CopyComplete
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 3\Programacion 3\OBLIGATORIO P3\OblP31eraVivero16 - 19-04-2022 Hora 16-08\ViveroProgram\CasosDeUso\obj\Debug\netcoreapp3.1\Manejadores.dll
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 3\Programacion 3\OBLIGATORIO P3\OblP31eraVivero16 - 19-04-2022 Hora 16-08\ViveroProgram\CasosDeUso\obj\Debug\netcoreapp3.1\Manejadores.pdb
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 3\Programacion 3\OBLIGATORIO P3\OblP31eraVivero17 - 19-04-2022 Hora 18-00 - copia\ViveroProgram\CasosDeUso\bin\Debug\netcoreapp3.1\Manejadores.deps.json
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 3\Programacion 3\OBLIGATORIO P3\OblP31eraVivero17 - 19-04-2022 Hora 18-00 - copia\ViveroProgram\CasosDeUso\bin\Debug\netcoreapp3.1\Manejadores.dll
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 3\Programacion 3\OBLIGATORIO P3\OblP31eraVivero17 - 19-04-2022 Hora 18-00 - copia\ViveroProgram\CasosDeUso\bin\Debug\netcoreapp3.1\Manejadores.pdb
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 3\Programacion 3\OBLIGATORIO P3\OblP31eraVivero17 - 19-04-2022 Hora 18-00 - copia\ViveroProgram\CasosDeUso\bin\Debug\netcoreapp3.1\Dominio.dll
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 3\Programacion 3\OBLIGATORIO P3\OblP31eraVivero17 - 19-04-2022 Hora 18-00 - copia\ViveroProgram\CasosDeUso\bin\Debug\netcoreapp3.1\Repositorios.dll
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 3\Programacion 3\OBLIGATORIO P3\OblP31eraVivero17 - 19-04-2022 Hora 18-00 - copia\ViveroProgram\CasosDeUso\bin\Debug\netcoreapp3.1\Dominio.pdb
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 3\Programacion 3\OBLIGATORIO P3\OblP31eraVivero17 - 19-04-2022 Hora 18-00 - copia\ViveroProgram\CasosDeUso\bin\Debug\netcoreapp3.1\Repositorios.pdb
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 3\Programacion 3\OBLIGATORIO P3\OblP31eraVivero17 - 19-04-2022 Hora 18-00 - copia\ViveroProgram\CasosDeUso\obj\Debug\netcoreapp3.1\Manejadores.csproj.AssemblyReference.cache
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 3\Programacion 3\OBLIGATORIO P3\OblP31eraVivero17 - 19-04-2022 Hora 18-00 - copia\ViveroProgram\CasosDeUso\obj\Debug\netcoreapp3.1\Manejadores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 3\Programacion 3\OBLIGATORIO P3\OblP31eraVivero17 - 19-04-2022 Hora 18-00 - copia\ViveroProgram\CasosDeUso\obj\Debug\netcoreapp3.1\Manejadores.AssemblyInfoInputs.cache
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 3\Programacion 3\OBLIGATORIO P3\OblP31eraVivero17 - 19-04-2022 Hora 18-00 - copia\ViveroProgram\CasosDeUso\obj\Debug\netcoreapp3.1\Manejadores.AssemblyInfo.cs
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 3\Programacion 3\OBLIGATORIO P3\OblP31eraVivero17 - 19-04-2022 Hora 18-00 - copia\ViveroProgram\CasosDeUso\obj\Debug\netcoreapp3.1\Manejadores.csproj.CoreCompileInputs.cache
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 3\Programacion 3\OBLIGATORIO P3\OblP31eraVivero17 - 19-04-2022 Hora 18-00 - copia\ViveroProgram\CasosDeUso\obj\Debug\netcoreapp3.1\Manejadores.csproj.CopyComplete
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 3\Programacion 3\OBLIGATORIO P3\OblP31eraVivero17 - 19-04-2022 Hora 18-00 - copia\ViveroProgram\CasosDeUso\obj\Debug\netcoreapp3.1\Manejadores.dll
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 3\Programacion 3\OBLIGATORIO P3\OblP31eraVivero17 - 19-04-2022 Hora 18-00 - copia\ViveroProgram\CasosDeUso\obj\Debug\netcoreapp3.1\Manejadores.pdb
+C:\Users\Usuario\Desktop\obl ultima\VERSION RARITA\OblP31eraVivero18 - 19-04-2022 Hora 20-30\ViveroProgram\CasosDeUso\bin\Debug\netcoreapp3.1\Manejadores.deps.json
+C:\Users\Usuario\Desktop\obl ultima\VERSION RARITA\OblP31eraVivero18 - 19-04-2022 Hora 20-30\ViveroProgram\CasosDeUso\bin\Debug\netcoreapp3.1\Manejadores.dll
+C:\Users\Usuario\Desktop\obl ultima\VERSION RARITA\OblP31eraVivero18 - 19-04-2022 Hora 20-30\ViveroProgram\CasosDeUso\bin\Debug\netcoreapp3.1\Manejadores.pdb
+C:\Users\Usuario\Desktop\obl ultima\VERSION RARITA\OblP31eraVivero18 - 19-04-2022 Hora 20-30\ViveroProgram\CasosDeUso\bin\Debug\netcoreapp3.1\Dominio.dll
+C:\Users\Usuario\Desktop\obl ultima\VERSION RARITA\OblP31eraVivero18 - 19-04-2022 Hora 20-30\ViveroProgram\CasosDeUso\bin\Debug\netcoreapp3.1\Repositorios.dll
+C:\Users\Usuario\Desktop\obl ultima\VERSION RARITA\OblP31eraVivero18 - 19-04-2022 Hora 20-30\ViveroProgram\CasosDeUso\bin\Debug\netcoreapp3.1\Dominio.pdb
+C:\Users\Usuario\Desktop\obl ultima\VERSION RARITA\OblP31eraVivero18 - 19-04-2022 Hora 20-30\ViveroProgram\CasosDeUso\bin\Debug\netcoreapp3.1\Repositorios.pdb
+C:\Users\Usuario\Desktop\obl ultima\VERSION RARITA\OblP31eraVivero18 - 19-04-2022 Hora 20-30\ViveroProgram\CasosDeUso\obj\Debug\netcoreapp3.1\Manejadores.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\obl ultima\VERSION RARITA\OblP31eraVivero18 - 19-04-2022 Hora 20-30\ViveroProgram\CasosDeUso\obj\Debug\netcoreapp3.1\Manejadores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\obl ultima\VERSION RARITA\OblP31eraVivero18 - 19-04-2022 Hora 20-30\ViveroProgram\CasosDeUso\obj\Debug\netcoreapp3.1\Manejadores.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\obl ultima\VERSION RARITA\OblP31eraVivero18 - 19-04-2022 Hora 20-30\ViveroProgram\CasosDeUso\obj\Debug\netcoreapp3.1\Manejadores.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\obl ultima\VERSION RARITA\OblP31eraVivero18 - 19-04-2022 Hora 20-30\ViveroProgram\CasosDeUso\obj\Debug\netcoreapp3.1\Manejadores.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\obl ultima\VERSION RARITA\OblP31eraVivero18 - 19-04-2022 Hora 20-30\ViveroProgram\CasosDeUso\obj\Debug\netcoreapp3.1\Manejadores.csproj.CopyComplete
+C:\Users\Usuario\Desktop\obl ultima\VERSION RARITA\OblP31eraVivero18 - 19-04-2022 Hora 20-30\ViveroProgram\CasosDeUso\obj\Debug\netcoreapp3.1\Manejadores.dll
+C:\Users\Usuario\Desktop\obl ultima\VERSION RARITA\OblP31eraVivero18 - 19-04-2022 Hora 20-30\ViveroProgram\CasosDeUso\obj\Debug\netcoreapp3.1\Manejadores.pdb
+C:\Users\Usuario\Desktop\obl ultima\VERSION RARITA\OblP31eraVivero19 - 19-04-2022 Hora 22-52\ViveroProgram\CasosDeUso\bin\Debug\netcoreapp3.1\Manejadores.deps.json
+C:\Users\Usuario\Desktop\obl ultima\VERSION RARITA\OblP31eraVivero19 - 19-04-2022 Hora 22-52\ViveroProgram\CasosDeUso\bin\Debug\netcoreapp3.1\Manejadores.dll
+C:\Users\Usuario\Desktop\obl ultima\VERSION RARITA\OblP31eraVivero19 - 19-04-2022 Hora 22-52\ViveroProgram\CasosDeUso\bin\Debug\netcoreapp3.1\Manejadores.pdb
+C:\Users\Usuario\Desktop\obl ultima\VERSION RARITA\OblP31eraVivero19 - 19-04-2022 Hora 22-52\ViveroProgram\CasosDeUso\bin\Debug\netcoreapp3.1\Dominio.dll
+C:\Users\Usuario\Desktop\obl ultima\VERSION RARITA\OblP31eraVivero19 - 19-04-2022 Hora 22-52\ViveroProgram\CasosDeUso\bin\Debug\netcoreapp3.1\Repositorios.dll
+C:\Users\Usuario\Desktop\obl ultima\VERSION RARITA\OblP31eraVivero19 - 19-04-2022 Hora 22-52\ViveroProgram\CasosDeUso\bin\Debug\netcoreapp3.1\Dominio.pdb
+C:\Users\Usuario\Desktop\obl ultima\VERSION RARITA\OblP31eraVivero19 - 19-04-2022 Hora 22-52\ViveroProgram\CasosDeUso\bin\Debug\netcoreapp3.1\Repositorios.pdb
+C:\Users\Usuario\Desktop\obl ultima\VERSION RARITA\OblP31eraVivero19 - 19-04-2022 Hora 22-52\ViveroProgram\CasosDeUso\obj\Debug\netcoreapp3.1\Manejadores.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\obl ultima\VERSION RARITA\OblP31eraVivero19 - 19-04-2022 Hora 22-52\ViveroProgram\CasosDeUso\obj\Debug\netcoreapp3.1\Manejadores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\obl ultima\VERSION RARITA\OblP31eraVivero19 - 19-04-2022 Hora 22-52\ViveroProgram\CasosDeUso\obj\Debug\netcoreapp3.1\Manejadores.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\obl ultima\VERSION RARITA\OblP31eraVivero19 - 19-04-2022 Hora 22-52\ViveroProgram\CasosDeUso\obj\Debug\netcoreapp3.1\Manejadores.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\obl ultima\VERSION RARITA\OblP31eraVivero19 - 19-04-2022 Hora 22-52\ViveroProgram\CasosDeUso\obj\Debug\netcoreapp3.1\Manejadores.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\obl ultima\VERSION RARITA\OblP31eraVivero19 - 19-04-2022 Hora 22-52\ViveroProgram\CasosDeUso\obj\Debug\netcoreapp3.1\Manejadores.csproj.CopyComplete
+C:\Users\Usuario\Desktop\obl ultima\VERSION RARITA\OblP31eraVivero19 - 19-04-2022 Hora 22-52\ViveroProgram\CasosDeUso\obj\Debug\netcoreapp3.1\Manejadores.dll
+C:\Users\Usuario\Desktop\obl ultima\VERSION RARITA\OblP31eraVivero19 - 19-04-2022 Hora 22-52\ViveroProgram\CasosDeUso\obj\Debug\netcoreapp3.1\Manejadores.pdb
+C:\Users\esteb\OneDrive\Desktop\OblP31eraVivero20- 20-04-2022 Hora 11-52\OblP31eraVivero20- 20-04-2022 Hora 11-52\ViveroProgram\CasosDeUso\bin\Debug\netcoreapp3.1\Manejadores.deps.json
+C:\Users\esteb\OneDrive\Desktop\OblP31eraVivero20- 20-04-2022 Hora 11-52\OblP31eraVivero20- 20-04-2022 Hora 11-52\ViveroProgram\CasosDeUso\bin\Debug\netcoreapp3.1\Manejadores.dll
+C:\Users\esteb\OneDrive\Desktop\OblP31eraVivero20- 20-04-2022 Hora 11-52\OblP31eraVivero20- 20-04-2022 Hora 11-52\ViveroProgram\CasosDeUso\bin\Debug\netcoreapp3.1\Manejadores.pdb
+C:\Users\esteb\OneDrive\Desktop\OblP31eraVivero20- 20-04-2022 Hora 11-52\OblP31eraVivero20- 20-04-2022 Hora 11-52\ViveroProgram\CasosDeUso\bin\Debug\netcoreapp3.1\Dominio.dll
+C:\Users\esteb\OneDrive\Desktop\OblP31eraVivero20- 20-04-2022 Hora 11-52\OblP31eraVivero20- 20-04-2022 Hora 11-52\ViveroProgram\CasosDeUso\bin\Debug\netcoreapp3.1\Repositorios.dll
+C:\Users\esteb\OneDrive\Desktop\OblP31eraVivero20- 20-04-2022 Hora 11-52\OblP31eraVivero20- 20-04-2022 Hora 11-52\ViveroProgram\CasosDeUso\bin\Debug\netcoreapp3.1\Dominio.pdb
+C:\Users\esteb\OneDrive\Desktop\OblP31eraVivero20- 20-04-2022 Hora 11-52\OblP31eraVivero20- 20-04-2022 Hora 11-52\ViveroProgram\CasosDeUso\bin\Debug\netcoreapp3.1\Repositorios.pdb
+C:\Users\esteb\OneDrive\Desktop\OblP31eraVivero20- 20-04-2022 Hora 11-52\OblP31eraVivero20- 20-04-2022 Hora 11-52\ViveroProgram\CasosDeUso\obj\Debug\netcoreapp3.1\Manejadores.csproj.AssemblyReference.cache
+C:\Users\esteb\OneDrive\Desktop\OblP31eraVivero20- 20-04-2022 Hora 11-52\OblP31eraVivero20- 20-04-2022 Hora 11-52\ViveroProgram\CasosDeUso\obj\Debug\netcoreapp3.1\Manejadores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\esteb\OneDrive\Desktop\OblP31eraVivero20- 20-04-2022 Hora 11-52\OblP31eraVivero20- 20-04-2022 Hora 11-52\ViveroProgram\CasosDeUso\obj\Debug\netcoreapp3.1\Manejadores.AssemblyInfoInputs.cache
+C:\Users\esteb\OneDrive\Desktop\OblP31eraVivero20- 20-04-2022 Hora 11-52\OblP31eraVivero20- 20-04-2022 Hora 11-52\ViveroProgram\CasosDeUso\obj\Debug\netcoreapp3.1\Manejadores.AssemblyInfo.cs
+C:\Users\esteb\OneDrive\Desktop\OblP31eraVivero20- 20-04-2022 Hora 11-52\OblP31eraVivero20- 20-04-2022 Hora 11-52\ViveroProgram\CasosDeUso\obj\Debug\netcoreapp3.1\Manejadores.csproj.CoreCompileInputs.cache
+C:\Users\esteb\OneDrive\Desktop\OblP31eraVivero20- 20-04-2022 Hora 11-52\OblP31eraVivero20- 20-04-2022 Hora 11-52\ViveroProgram\CasosDeUso\obj\Debug\netcoreapp3.1\Manejadores.csproj.CopyComplete
+C:\Users\esteb\OneDrive\Desktop\OblP31eraVivero20- 20-04-2022 Hora 11-52\OblP31eraVivero20- 20-04-2022 Hora 11-52\ViveroProgram\CasosDeUso\obj\Debug\netcoreapp3.1\Manejadores.dll
+C:\Users\esteb\OneDrive\Desktop\OblP31eraVivero20- 20-04-2022 Hora 11-52\OblP31eraVivero20- 20-04-2022 Hora 11-52\ViveroProgram\CasosDeUso\obj\Debug\netcoreapp3.1\Manejadores.pdb
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 3\Programacion 3\OBLIGATORIO P3\OblP31eraVivero20- 20-04-2022 Hora 11-52\ViveroProgram\CasosDeUso\bin\Debug\netcoreapp3.1\Manejadores.deps.json
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 3\Programacion 3\OBLIGATORIO P3\OblP31eraVivero20- 20-04-2022 Hora 11-52\ViveroProgram\CasosDeUso\bin\Debug\netcoreapp3.1\Manejadores.dll
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 3\Programacion 3\OBLIGATORIO P3\OblP31eraVivero20- 20-04-2022 Hora 11-52\ViveroProgram\CasosDeUso\bin\Debug\netcoreapp3.1\Manejadores.pdb
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 3\Programacion 3\OBLIGATORIO P3\OblP31eraVivero20- 20-04-2022 Hora 11-52\ViveroProgram\CasosDeUso\bin\Debug\netcoreapp3.1\Dominio.dll
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 3\Programacion 3\OBLIGATORIO P3\OblP31eraVivero20- 20-04-2022 Hora 11-52\ViveroProgram\CasosDeUso\bin\Debug\netcoreapp3.1\Repositorios.dll
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 3\Programacion 3\OBLIGATORIO P3\OblP31eraVivero20- 20-04-2022 Hora 11-52\ViveroProgram\CasosDeUso\bin\Debug\netcoreapp3.1\Dominio.pdb
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 3\Programacion 3\OBLIGATORIO P3\OblP31eraVivero20- 20-04-2022 Hora 11-52\ViveroProgram\CasosDeUso\bin\Debug\netcoreapp3.1\Repositorios.pdb
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 3\Programacion 3\OBLIGATORIO P3\OblP31eraVivero20- 20-04-2022 Hora 11-52\ViveroProgram\CasosDeUso\obj\Debug\netcoreapp3.1\Manejadores.csproj.AssemblyReference.cache
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 3\Programacion 3\OBLIGATORIO P3\OblP31eraVivero20- 20-04-2022 Hora 11-52\ViveroProgram\CasosDeUso\obj\Debug\netcoreapp3.1\Manejadores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 3\Programacion 3\OBLIGATORIO P3\OblP31eraVivero20- 20-04-2022 Hora 11-52\ViveroProgram\CasosDeUso\obj\Debug\netcoreapp3.1\Manejadores.AssemblyInfoInputs.cache
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 3\Programacion 3\OBLIGATORIO P3\OblP31eraVivero20- 20-04-2022 Hora 11-52\ViveroProgram\CasosDeUso\obj\Debug\netcoreapp3.1\Manejadores.AssemblyInfo.cs
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 3\Programacion 3\OBLIGATORIO P3\OblP31eraVivero20- 20-04-2022 Hora 11-52\ViveroProgram\CasosDeUso\obj\Debug\netcoreapp3.1\Manejadores.csproj.CoreCompileInputs.cache
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 3\Programacion 3\OBLIGATORIO P3\OblP31eraVivero20- 20-04-2022 Hora 11-52\ViveroProgram\CasosDeUso\obj\Debug\netcoreapp3.1\Manejadores.csproj.CopyComplete
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 3\Programacion 3\OBLIGATORIO P3\OblP31eraVivero20- 20-04-2022 Hora 11-52\ViveroProgram\CasosDeUso\obj\Debug\netcoreapp3.1\Manejadores.dll
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 3\Programacion 3\OBLIGATORIO P3\OblP31eraVivero20- 20-04-2022 Hora 11-52\ViveroProgram\CasosDeUso\obj\Debug\netcoreapp3.1\Manejadores.pdb
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 3\Programacion 3\OBLIGATORIO P3\OblP31eraVivero23 - 22-04-2022 Hora\ViveroProgram\CasosDeUso\bin\Debug\netcoreapp3.1\Manejadores.deps.json
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 3\Programacion 3\OBLIGATORIO P3\OblP31eraVivero23 - 22-04-2022 Hora\ViveroProgram\CasosDeUso\bin\Debug\netcoreapp3.1\Manejadores.dll
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 3\Programacion 3\OBLIGATORIO P3\OblP31eraVivero23 - 22-04-2022 Hora\ViveroProgram\CasosDeUso\bin\Debug\netcoreapp3.1\Manejadores.pdb
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 3\Programacion 3\OBLIGATORIO P3\OblP31eraVivero23 - 22-04-2022 Hora\ViveroProgram\CasosDeUso\bin\Debug\netcoreapp3.1\Dominio.dll
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 3\Programacion 3\OBLIGATORIO P3\OblP31eraVivero23 - 22-04-2022 Hora\ViveroProgram\CasosDeUso\bin\Debug\netcoreapp3.1\Repositorios.dll
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 3\Programacion 3\OBLIGATORIO P3\OblP31eraVivero23 - 22-04-2022 Hora\ViveroProgram\CasosDeUso\bin\Debug\netcoreapp3.1\Dominio.pdb
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 3\Programacion 3\OBLIGATORIO P3\OblP31eraVivero23 - 22-04-2022 Hora\ViveroProgram\CasosDeUso\bin\Debug\netcoreapp3.1\Repositorios.pdb
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 3\Programacion 3\OBLIGATORIO P3\OblP31eraVivero23 - 22-04-2022 Hora\ViveroProgram\CasosDeUso\obj\Debug\netcoreapp3.1\Manejadores.csproj.AssemblyReference.cache
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 3\Programacion 3\OBLIGATORIO P3\OblP31eraVivero23 - 22-04-2022 Hora\ViveroProgram\CasosDeUso\obj\Debug\netcoreapp3.1\Manejadores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 3\Programacion 3\OBLIGATORIO P3\OblP31eraVivero23 - 22-04-2022 Hora\ViveroProgram\CasosDeUso\obj\Debug\netcoreapp3.1\Manejadores.AssemblyInfoInputs.cache
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 3\Programacion 3\OBLIGATORIO P3\OblP31eraVivero23 - 22-04-2022 Hora\ViveroProgram\CasosDeUso\obj\Debug\netcoreapp3.1\Manejadores.AssemblyInfo.cs
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 3\Programacion 3\OBLIGATORIO P3\OblP31eraVivero23 - 22-04-2022 Hora\ViveroProgram\CasosDeUso\obj\Debug\netcoreapp3.1\Manejadores.csproj.CoreCompileInputs.cache
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 3\Programacion 3\OBLIGATORIO P3\OblP31eraVivero23 - 22-04-2022 Hora\ViveroProgram\CasosDeUso\obj\Debug\netcoreapp3.1\Manejadores.csproj.CopyComplete
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 3\Programacion 3\OBLIGATORIO P3\OblP31eraVivero23 - 22-04-2022 Hora\ViveroProgram\CasosDeUso\obj\Debug\netcoreapp3.1\Manejadores.dll
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 3\Programacion 3\OBLIGATORIO P3\OblP31eraVivero23 - 22-04-2022 Hora\ViveroProgram\CasosDeUso\obj\Debug\netcoreapp3.1\Manejadores.pdb
+C:\Users\esteb\OneDrive\Desktop\OblP31eraVivero23 - 22-04-2022 Hora17-05\OblP31eraVivero23 - 22-04-2022 Hora 17-05\ViveroProgram\CasosDeUso\bin\Debug\netcoreapp3.1\Manejadores.deps.json
+C:\Users\esteb\OneDrive\Desktop\OblP31eraVivero23 - 22-04-2022 Hora17-05\OblP31eraVivero23 - 22-04-2022 Hora 17-05\ViveroProgram\CasosDeUso\bin\Debug\netcoreapp3.1\Manejadores.dll
+C:\Users\esteb\OneDrive\Desktop\OblP31eraVivero23 - 22-04-2022 Hora17-05\OblP31eraVivero23 - 22-04-2022 Hora 17-05\ViveroProgram\CasosDeUso\bin\Debug\netcoreapp3.1\Manejadores.pdb
+C:\Users\esteb\OneDrive\Desktop\OblP31eraVivero23 - 22-04-2022 Hora17-05\OblP31eraVivero23 - 22-04-2022 Hora 17-05\ViveroProgram\CasosDeUso\bin\Debug\netcoreapp3.1\Dominio.dll
+C:\Users\esteb\OneDrive\Desktop\OblP31eraVivero23 - 22-04-2022 Hora17-05\OblP31eraVivero23 - 22-04-2022 Hora 17-05\ViveroProgram\CasosDeUso\bin\Debug\netcoreapp3.1\Repositorios.dll
+C:\Users\esteb\OneDrive\Desktop\OblP31eraVivero23 - 22-04-2022 Hora17-05\OblP31eraVivero23 - 22-04-2022 Hora 17-05\ViveroProgram\CasosDeUso\bin\Debug\netcoreapp3.1\Dominio.pdb
+C:\Users\esteb\OneDrive\Desktop\OblP31eraVivero23 - 22-04-2022 Hora17-05\OblP31eraVivero23 - 22-04-2022 Hora 17-05\ViveroProgram\CasosDeUso\bin\Debug\netcoreapp3.1\Repositorios.pdb
+C:\Users\esteb\OneDrive\Desktop\OblP31eraVivero23 - 22-04-2022 Hora17-05\OblP31eraVivero23 - 22-04-2022 Hora 17-05\ViveroProgram\CasosDeUso\obj\Debug\netcoreapp3.1\Manejadores.csproj.AssemblyReference.cache
+C:\Users\esteb\OneDrive\Desktop\OblP31eraVivero23 - 22-04-2022 Hora17-05\OblP31eraVivero23 - 22-04-2022 Hora 17-05\ViveroProgram\CasosDeUso\obj\Debug\netcoreapp3.1\Manejadores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\esteb\OneDrive\Desktop\OblP31eraVivero23 - 22-04-2022 Hora17-05\OblP31eraVivero23 - 22-04-2022 Hora 17-05\ViveroProgram\CasosDeUso\obj\Debug\netcoreapp3.1\Manejadores.AssemblyInfoInputs.cache
+C:\Users\esteb\OneDrive\Desktop\OblP31eraVivero23 - 22-04-2022 Hora17-05\OblP31eraVivero23 - 22-04-2022 Hora 17-05\ViveroProgram\CasosDeUso\obj\Debug\netcoreapp3.1\Manejadores.AssemblyInfo.cs
+C:\Users\esteb\OneDrive\Desktop\OblP31eraVivero23 - 22-04-2022 Hora17-05\OblP31eraVivero23 - 22-04-2022 Hora 17-05\ViveroProgram\CasosDeUso\obj\Debug\netcoreapp3.1\Manejadores.csproj.CoreCompileInputs.cache
+C:\Users\esteb\OneDrive\Desktop\OblP31eraVivero23 - 22-04-2022 Hora17-05\OblP31eraVivero23 - 22-04-2022 Hora 17-05\ViveroProgram\CasosDeUso\obj\Debug\netcoreapp3.1\Manejadores.csproj.CopyComplete
+C:\Users\esteb\OneDrive\Desktop\OblP31eraVivero23 - 22-04-2022 Hora17-05\OblP31eraVivero23 - 22-04-2022 Hora 17-05\ViveroProgram\CasosDeUso\obj\Debug\netcoreapp3.1\Manejadores.dll
+C:\Users\esteb\OneDrive\Desktop\OblP31eraVivero23 - 22-04-2022 Hora17-05\OblP31eraVivero23 - 22-04-2022 Hora 17-05\ViveroProgram\CasosDeUso\obj\Debug\netcoreapp3.1\Manejadores.pdb
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 3\Programacion 3\OBLIGATORIO P3\OblP31eraVivero24 - 23-04-2022 Hora 03-10\ViveroProgram\CasosDeUso\bin\Debug\netcoreapp3.1\Manejadores.deps.json
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 3\Programacion 3\OBLIGATORIO P3\OblP31eraVivero24 - 23-04-2022 Hora 03-10\ViveroProgram\CasosDeUso\bin\Debug\netcoreapp3.1\Manejadores.dll
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 3\Programacion 3\OBLIGATORIO P3\OblP31eraVivero24 - 23-04-2022 Hora 03-10\ViveroProgram\CasosDeUso\bin\Debug\netcoreapp3.1\Manejadores.pdb
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 3\Programacion 3\OBLIGATORIO P3\OblP31eraVivero24 - 23-04-2022 Hora 03-10\ViveroProgram\CasosDeUso\bin\Debug\netcoreapp3.1\Dominio.dll
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 3\Programacion 3\OBLIGATORIO P3\OblP31eraVivero24 - 23-04-2022 Hora 03-10\ViveroProgram\CasosDeUso\bin\Debug\netcoreapp3.1\Repositorios.dll
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 3\Programacion 3\OBLIGATORIO P3\OblP31eraVivero24 - 23-04-2022 Hora 03-10\ViveroProgram\CasosDeUso\bin\Debug\netcoreapp3.1\Dominio.pdb
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 3\Programacion 3\OBLIGATORIO P3\OblP31eraVivero24 - 23-04-2022 Hora 03-10\ViveroProgram\CasosDeUso\bin\Debug\netcoreapp3.1\Repositorios.pdb
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 3\Programacion 3\OBLIGATORIO P3\OblP31eraVivero24 - 23-04-2022 Hora 03-10\ViveroProgram\CasosDeUso\obj\Debug\netcoreapp3.1\Manejadores.csproj.AssemblyReference.cache
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 3\Programacion 3\OBLIGATORIO P3\OblP31eraVivero24 - 23-04-2022 Hora 03-10\ViveroProgram\CasosDeUso\obj\Debug\netcoreapp3.1\Manejadores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 3\Programacion 3\OBLIGATORIO P3\OblP31eraVivero24 - 23-04-2022 Hora 03-10\ViveroProgram\CasosDeUso\obj\Debug\netcoreapp3.1\Manejadores.AssemblyInfoInputs.cache
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 3\Programacion 3\OBLIGATORIO P3\OblP31eraVivero24 - 23-04-2022 Hora 03-10\ViveroProgram\CasosDeUso\obj\Debug\netcoreapp3.1\Manejadores.AssemblyInfo.cs
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 3\Programacion 3\OBLIGATORIO P3\OblP31eraVivero24 - 23-04-2022 Hora 03-10\ViveroProgram\CasosDeUso\obj\Debug\netcoreapp3.1\Manejadores.csproj.CoreCompileInputs.cache
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 3\Programacion 3\OBLIGATORIO P3\OblP31eraVivero24 - 23-04-2022 Hora 03-10\ViveroProgram\CasosDeUso\obj\Debug\netcoreapp3.1\Manejadores.csproj.CopyComplete
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 3\Programacion 3\OBLIGATORIO P3\OblP31eraVivero24 - 23-04-2022 Hora 03-10\ViveroProgram\CasosDeUso\obj\Debug\netcoreapp3.1\Manejadores.dll
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 3\Programacion 3\OBLIGATORIO P3\OblP31eraVivero24 - 23-04-2022 Hora 03-10\ViveroProgram\CasosDeUso\obj\Debug\netcoreapp3.1\Manejadores.pdb
+C:\Users\Usuario\Desktop\obl ultima\Versiones\OblP31eraVivero25 - 23-04-2022 Hora 12-30\ViveroProgram\CasosDeUso\bin\Debug\netcoreapp3.1\Manejadores.deps.json
+C:\Users\Usuario\Desktop\obl ultima\Versiones\OblP31eraVivero25 - 23-04-2022 Hora 12-30\ViveroProgram\CasosDeUso\bin\Debug\netcoreapp3.1\Manejadores.dll
+C:\Users\Usuario\Desktop\obl ultima\Versiones\OblP31eraVivero25 - 23-04-2022 Hora 12-30\ViveroProgram\CasosDeUso\bin\Debug\netcoreapp3.1\Manejadores.pdb
+C:\Users\Usuario\Desktop\obl ultima\Versiones\OblP31eraVivero25 - 23-04-2022 Hora 12-30\ViveroProgram\CasosDeUso\bin\Debug\netcoreapp3.1\Dominio.dll
+C:\Users\Usuario\Desktop\obl ultima\Versiones\OblP31eraVivero25 - 23-04-2022 Hora 12-30\ViveroProgram\CasosDeUso\bin\Debug\netcoreapp3.1\Repositorios.dll
+C:\Users\Usuario\Desktop\obl ultima\Versiones\OblP31eraVivero25 - 23-04-2022 Hora 12-30\ViveroProgram\CasosDeUso\bin\Debug\netcoreapp3.1\Dominio.pdb
+C:\Users\Usuario\Desktop\obl ultima\Versiones\OblP31eraVivero25 - 23-04-2022 Hora 12-30\ViveroProgram\CasosDeUso\bin\Debug\netcoreapp3.1\Repositorios.pdb
+C:\Users\Usuario\Desktop\obl ultima\Versiones\OblP31eraVivero25 - 23-04-2022 Hora 12-30\ViveroProgram\CasosDeUso\obj\Debug\netcoreapp3.1\Manejadores.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\obl ultima\Versiones\OblP31eraVivero25 - 23-04-2022 Hora 12-30\ViveroProgram\CasosDeUso\obj\Debug\netcoreapp3.1\Manejadores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\obl ultima\Versiones\OblP31eraVivero25 - 23-04-2022 Hora 12-30\ViveroProgram\CasosDeUso\obj\Debug\netcoreapp3.1\Manejadores.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\obl ultima\Versiones\OblP31eraVivero25 - 23-04-2022 Hora 12-30\ViveroProgram\CasosDeUso\obj\Debug\netcoreapp3.1\Manejadores.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\obl ultima\Versiones\OblP31eraVivero25 - 23-04-2022 Hora 12-30\ViveroProgram\CasosDeUso\obj\Debug\netcoreapp3.1\Manejadores.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\obl ultima\Versiones\OblP31eraVivero25 - 23-04-2022 Hora 12-30\ViveroProgram\CasosDeUso\obj\Debug\netcoreapp3.1\Manejadores.csproj.CopyComplete
+C:\Users\Usuario\Desktop\obl ultima\Versiones\OblP31eraVivero25 - 23-04-2022 Hora 12-30\ViveroProgram\CasosDeUso\obj\Debug\netcoreapp3.1\Manejadores.dll
+C:\Users\Usuario\Desktop\obl ultima\Versiones\OblP31eraVivero25 - 23-04-2022 Hora 12-30\ViveroProgram\CasosDeUso\obj\Debug\netcoreapp3.1\Manejadores.pdb
+C:\Users\esteb\OneDrive\Escritorio\ViveroProgram\CasosDeUso\bin\Debug\netcoreapp3.1\Manejadores.deps.json
+C:\Users\esteb\OneDrive\Escritorio\ViveroProgram\CasosDeUso\bin\Debug\netcoreapp3.1\Manejadores.dll
+C:\Users\esteb\OneDrive\Escritorio\ViveroProgram\CasosDeUso\bin\Debug\netcoreapp3.1\Manejadores.pdb
+C:\Users\esteb\OneDrive\Escritorio\ViveroProgram\CasosDeUso\bin\Debug\netcoreapp3.1\Dominio.dll
+C:\Users\esteb\OneDrive\Escritorio\ViveroProgram\CasosDeUso\bin\Debug\netcoreapp3.1\Repositorios.dll
+C:\Users\esteb\OneDrive\Escritorio\ViveroProgram\CasosDeUso\bin\Debug\netcoreapp3.1\Dominio.pdb
+C:\Users\esteb\OneDrive\Escritorio\ViveroProgram\CasosDeUso\bin\Debug\netcoreapp3.1\Repositorios.pdb
+C:\Users\esteb\OneDrive\Escritorio\ViveroProgram\CasosDeUso\obj\Debug\netcoreapp3.1\Manejadores.csproj.AssemblyReference.cache
+C:\Users\esteb\OneDrive\Escritorio\ViveroProgram\CasosDeUso\obj\Debug\netcoreapp3.1\Manejadores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\esteb\OneDrive\Escritorio\ViveroProgram\CasosDeUso\obj\Debug\netcoreapp3.1\Manejadores.AssemblyInfoInputs.cache
+C:\Users\esteb\OneDrive\Escritorio\ViveroProgram\CasosDeUso\obj\Debug\netcoreapp3.1\Manejadores.AssemblyInfo.cs
+C:\Users\esteb\OneDrive\Escritorio\ViveroProgram\CasosDeUso\obj\Debug\netcoreapp3.1\Manejadores.csproj.CoreCompileInputs.cache
+C:\Users\esteb\OneDrive\Escritorio\ViveroProgram\CasosDeUso\obj\Debug\netcoreapp3.1\Manejadores.csproj.CopyComplete
+C:\Users\esteb\OneDrive\Escritorio\ViveroProgram\CasosDeUso\obj\Debug\netcoreapp3.1\Manejadores.dll
+C:\Users\esteb\OneDrive\Escritorio\ViveroProgram\CasosDeUso\obj\Debug\netcoreapp3.1\Manejadores.pdb

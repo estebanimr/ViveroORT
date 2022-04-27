@@ -1,0 +1,15 @@
+﻿@using Microsoft.AspNetCore.Http;
+
+<body class="bg-dark text-light ">
+    <div class="row justify-content-center">
+        <div class="col-5">
+            <h2><span class="text-uppercase text-primary">@Context.Session.GetString("logueadoEmail")</span> está seguro que desea cerrar la sesión?</h2>
+
+            <form method="post">
+
+                <input type="submit" value="Cerrar sesión" class="btn btn-primary" />
+
+            </form>
+        </div>
+    </div>
+</body>

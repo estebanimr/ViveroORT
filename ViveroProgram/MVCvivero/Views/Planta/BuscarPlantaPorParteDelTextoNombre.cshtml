@@ -1,0 +1,115 @@
+﻿@model IEnumerable<Dominio.EntidadesNegocio.Planta>
+@*@model IEnumerable<MVCvivero.Models.ViewModelPlanta>*@
+
+
+@{
+    ViewData["Title"] = "BuscarPlantaPorParteDelTextoNombre";
+}
+
+<body class="bg-dark text-light">
+
+    <div class="row justify-content-center">
+        <div class="col-5">
+            <h1 class="text-center">Buscar Planta por Texto o parte del mismo</h1>
+
+            <form method="post" id="formBuscaPlantaTexto">
+                <label class="control-label" for="buscarPlanta">Buscar una planta por parte del texto:</label>
+                <input class="form-control" type="text" placeholder="Ingrese una palabra" name="textoBuscado" id="inputBuscarTexto" /> <br />
+                <input type="submit" value="Buscar Planta" class="btn btn-primary mt-4" />
+            </form>
+                <p id="pMensaje" class="text-danger pt-3"></p>
+            <div>
+                <a class="pb-2" asp-action="Index">Back to List</a>
+            </div>
+        </div>
+    </div>
+    <span class="ml-3 text-danger">@ViewBag.Error</span>
+    <div class="row">
+        <div class="col-12">
+            @if (ViewBag.lst > 0)
+            {
+                <table class="table text-light">
+                    <thead>
+                        <tr>
+                            <th>Foto</th>
+                            <th>Nombre Cientifico</th>
+                            <th>Nombres Vulgares</th>
+                            <th>Descripcion</th>
+                            <th>Tipo de Ambiente</th>
+                            <th>Cantidad de Riego</th>
+                            <th>Unidad de Riego</th>
+                            <th>Temperatura</th>
+                            <th>Tipo de Iluminacion</th>
+                            <th>Tipo de Planta</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        @foreach (var item in ViewBag.LstPlantas)
+                        {
+                            <tr>
+                                <td>
+                                    @foreach (var foto in item.FotosDePlanta)
+                                    {
+
+                                        <img src="~/img/@foto.NombreFoto" height="60" />
+                                    }
+                                </td>
+
+                                <td>
+                                    @item.NombreCientifico
+                                </td>
+                                <td>
+                                    @item.NombresVulgares
+                                </td>
+                                <td>
+                                    @item.DescripcionPlanta
+                                </td>
+                                <td>
+                                    @item.TipoAmbiente
+                                </td>
+                                <td>
+                                    @item.CuidadosPlanta.CantidadFrecRiego
+                                </td>
+                                <td>
+                                    @item.CuidadosPlanta.UnidadFrecRiego
+                                </td>
+                                <td>
+                                    @item.CuidadosPlanta.Temperatura
+                                </td>
+                                <td>
+                                    @item.CuidadosPlanta.TipoIluminacion.NombreTipoIluminacion
+                                </td>
+                                <td>
+                                    @item.Tipo.NomTipoPlanta
+                                </td>
+                                <td>
+                            </tr>
+                        }
+                    </tbody>
+                </table>
+            }
+        </div>
+        
+    </div>
+</body>
+
+
+
+@section Scripts {
+    <script>
+        document.querySelector("#formBuscaPlantaTexto").addEventListener('submit', validarBuscarPlantaPorTexto);
+        function validarBuscarPlantaPorTexto(evento) {
+            evento.preventDefault();
+            let buscarTexto = document.querySelector("#inputBuscarTexto").value;
+
+            let mensaje = "";
+            if (buscarTexto != "") {
+                this.submit();
+            }
+            else {
+                mensaje = "Error, al menos debe ingresar una letra o palabra para su busqueda.";
+            }
+            document.querySelector("#pMensaje").innerHTML = mensaje;
+        }
+    </script>
+}

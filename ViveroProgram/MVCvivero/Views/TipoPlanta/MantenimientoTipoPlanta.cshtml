@@ -1,0 +1,69 @@
+﻿<body class="container-fluid bg-dark text-light">
+    <div class="row justify-content-center">
+        <div class="col-5">
+            <h1>Mantenimiento de tipos de plantas.</h1>
+            <form method="post" id="formid">
+                <label class="control-label">Nombre tipo de planta a buscar:</label><br>
+                <input class="form-control" type="text" name="nombre" id="nombre"><br>
+                <input class="btn btn-primary" type="submit" value="Buscar">
+
+
+                <p id="pMensaje" class="text-danger"></p>
+            </form>
+            <div class="p-2">
+                <a asp-action="Index">Back to List</a>
+            </div>
+        </div>
+    </div>
+
+    <div class="row">
+        <div class="col-12">
+            @if (ViewBag.TPBuscada != null)
+            {
+                <table class="table text-light text-center mt-4" border="1">
+                    <thead>
+                        <tr>
+                            <th>Nombre tipo de planta</th>
+                            <th>Descripcion</th>
+                            <th colspan="2">Acciones</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td>@ViewBag.TPBuscada.NomTipoPlanta</td>
+                            <td>@ViewBag.TPBuscada.DescTipoPlanta</td>
+                            <td>@Html.ActionLink("Editar descripcion", "Edit", new { id = ViewBag.TPBuscada.Id }) </td>
+                            <td>@Html.ActionLink("Eliminar", "Delete", new { id = ViewBag.TPBuscada.Id })</td>
+                        </tr>
+                    </tbody>
+                </table>
+            }
+            else
+            {
+                <p><span class="text-danger">@ViewBag.Error</span></p>
+            }
+        </div>
+    </div>
+</body>
+
+@section Scripts {
+    <script>
+        document.querySelector("#formid").addEventListener('submit', FormMantenimientoTP);
+
+        function FormMantenimientoTP(evento) {
+            evento.preventDefault();
+
+            let nombreTP = document.querySelector("#nombre").value;
+           
+            let mensaje = "";
+
+            if (nombreTP != "") {
+                this.submit();
+            } else {
+                mensaje = "Error, verifique el ingreso de datos";
+            }
+            document.querySelector("#pMensaje").innerHTML = mensaje;
+        }
+
+    </script>
+}

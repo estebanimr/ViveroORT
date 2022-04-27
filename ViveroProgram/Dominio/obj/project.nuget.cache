@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "r/JMMN2XUQZO8wg8LbkICvQx1/G7Lhgd/g6rEbK1VSZQHZNrA2E+G+ElGYu8oY0qCJVzEIWf5U/b74z+IOCLDg==",
+  "dgSpecHash": "Wj0Gu6YSRY9rrho/Dpwqn9uPbKuycVicztNhfAVI7nZMa+vSUm2mcGvS0qyuzdkh55ybNpJVnrhJPKkQ1rkIhw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\esteb\\OneDrive\\Desktop\\OblP31eraVivero 02-04-2022 Hora 13-31\\OblP31eraVivero 02-04-2022 Hora 13-31\\OblP31eraVivero\\ViveroProgram\\Dominio\\Dominio.csproj",
+  "projectFilePath": "C:\\Users\\esteb\\OneDrive\\Escritorio\\ViveroProgram\\Dominio\\Dominio.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\esteb\\.nuget\\packages\\azure.core\\1.6.0\\azure.core.1.6.0.nupkg.sha512",
     "C:\\Users\\esteb\\.nuget\\packages\\azure.identity\\1.3.0\\azure.identity.1.3.0.nupkg.sha512",

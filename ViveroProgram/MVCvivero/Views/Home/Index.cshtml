@@ -1,0 +1,92 @@
+﻿@using Microsoft.AspNetCore.Http;
+
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<body class="pb-5 bg-dark text-light">
+    <main class="container">
+
+        @* Titulo - Seccion 1 *@
+        <section class="row">
+
+            <h1 class="col-12 text-center mb-4">
+                Bienvenido/a <span class="text-uppercase text-primary">
+                    @if (Context.Session.GetString("logueadoEmail") != null)
+                    {
+                        @Context.Session.GetString("logueadoEmail")
+                    }
+                </span> al vivero
+                <br /> "Los Programadores"
+            </h1>
+
+            <figure class="col-12 text-center">
+                <img src="/img/vivero.jpg" alt="Nuestro Vivero" title="Vivero de los programadores" />
+            </figure>
+        </section>
+
+        @* Novedades - Seccion 2*@
+        <section class="row">
+
+            <h2 class="col-12 mt-3">Nuestra Empresa</h2>
+
+            <article class="col-8">
+                <p class="lead">
+                    Sinónimo de trayectoria, perfección y experiencia en el abastecimiento del mercado viverista nacional. 
+                    Amplio stock de plantas ornamentales, árboles, palmeras, rosales, flores de corte, macetería y accesorios en general. 
+                    Un ‘camino’ empresarial recorrido, que hace que quienes la conformamos nos esforcemos por mantener y enaltecer día a día a través de cada producto y de cada servicio brindado. 
+                    En nuestras instalaciones contará con el asesoramiento de profesionales que lo guiarán en su elección.
+                </p>
+
+           @if(Context.Session.GetString("logueadoEmail") == null)
+            {
+                <p class="lead">
+                    <strong>
+                        <em>
+                            Puede <a asp-controller="Usuario" asp-action="Login">Iniciar Sesión</a> con su usuario ver las plantas de nuestro vivero.
+                        </em>
+                    </strong>
+                </p>
+            }
+            </article>
+
+
+            <figure class=" col-4">
+                <img src="/img/equipo.jpg" alt="Alternate Text" class="img-fluid" />
+                <figcaption>Nuestro equipo de Talentos en el vivero</figcaption>
+            </figure>
+
+        </section>
+
+        @* Noticias - Seccion 3*@
+        <section class="row pt-2">
+
+            <h2 class="col-12">Novedades</h2>
+            <article class="col-6">
+                <figure>
+                    <img src="/img/proyecto.jpg" alt="Proyecto Punta del Este" class="img-fluid" />
+                    <figcaption>Realizamos proyectos paisajísticos de calidad, y proveemos a desarrollistas destacados. Resolvemos grandes obras así como pequeños jardines.</figcaption>
+                </figure>
+
+                <p>
+                    Sinónimo de trayectoria, perfección y experiencia en el abastecimiento del mercado viverista nacional. Amplio stock de plantas ornamentales, árboles, palmeras, rosales, flores de corte, macetería y accesorios en general.
+                </p>
+            </article>
+
+            <article class="col-6">
+                <figure>
+                    <img src="/img/flores.jpg" alt="Flores de nuestro vivero" class="img-fluid" />
+                    <figcaption>
+                    Disponemos de una amplia gama de flores nacionales e importadas. Para un obsequio casual o la decoración de bodas o eventos en general.
+                    </figcaption>
+                </figure>
+
+                <p>
+                    Ya sea para regalar o regalarse, puedes tener en tu jardin o balcon las flores que mas te gusten. Contamos con un equipo especializado para asesorarte .
+                </p>
+            </article>
+ 
+
+        </section>
+    </main>
+</body>

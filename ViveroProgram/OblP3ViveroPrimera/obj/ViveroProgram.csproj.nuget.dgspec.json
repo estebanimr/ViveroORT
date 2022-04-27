@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\esteb\\OneDrive\\Desktop\\OblP31eraVivero 02-04-2022 Hora 13-31\\OblP31eraVivero 02-04-2022 Hora 13-31\\OblP31eraVivero\\ViveroProgram\\OblP3ViveroPrimera\\ViveroProgram.csproj": {}
+    "C:\\Users\\esteb\\OneDrive\\Escritorio\\ViveroProgram\\OblP3ViveroPrimera\\ViveroProgram.csproj": {}
   },
   "projects": {
-    "C:\\Users\\esteb\\OneDrive\\Desktop\\OblP31eraVivero 02-04-2022 Hora 13-31\\OblP31eraVivero 02-04-2022 Hora 13-31\\OblP31eraVivero\\ViveroProgram\\Dominio\\Dominio.csproj": {
+    "C:\\Users\\esteb\\OneDrive\\Escritorio\\ViveroProgram\\Dominio\\Dominio.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\esteb\\OneDrive\\Desktop\\OblP31eraVivero 02-04-2022 Hora 13-31\\OblP31eraVivero 02-04-2022 Hora 13-31\\OblP31eraVivero\\ViveroProgram\\Dominio\\Dominio.csproj",
+        "projectUniqueName": "C:\\Users\\esteb\\OneDrive\\Escritorio\\ViveroProgram\\Dominio\\Dominio.csproj",
         "projectName": "Dominio",
-        "projectPath": "C:\\Users\\esteb\\OneDrive\\Desktop\\OblP31eraVivero 02-04-2022 Hora 13-31\\OblP31eraVivero 02-04-2022 Hora 13-31\\OblP31eraVivero\\ViveroProgram\\Dominio\\Dominio.csproj",
+        "projectPath": "C:\\Users\\esteb\\OneDrive\\Escritorio\\ViveroProgram\\Dominio\\Dominio.csproj",
         "packagesPath": "C:\\Users\\esteb\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\esteb\\OneDrive\\Desktop\\OblP31eraVivero 02-04-2022 Hora 13-31\\OblP31eraVivero 02-04-2022 Hora 13-31\\OblP31eraVivero\\ViveroProgram\\Dominio\\obj\\",
+        "outputPath": "C:\\Users\\esteb\\OneDrive\\Escritorio\\ViveroProgram\\Dominio\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\esteb\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -60,18 +60,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.406\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.407\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\esteb\\OneDrive\\Desktop\\OblP31eraVivero 02-04-2022 Hora 13-31\\OblP31eraVivero 02-04-2022 Hora 13-31\\OblP31eraVivero\\ViveroProgram\\OblP3ViveroPrimera\\ViveroProgram.csproj": {
+    "C:\\Users\\esteb\\OneDrive\\Escritorio\\ViveroProgram\\OblP3ViveroPrimera\\ViveroProgram.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\esteb\\OneDrive\\Desktop\\OblP31eraVivero 02-04-2022 Hora 13-31\\OblP31eraVivero 02-04-2022 Hora 13-31\\OblP31eraVivero\\ViveroProgram\\OblP3ViveroPrimera\\ViveroProgram.csproj",
+        "projectUniqueName": "C:\\Users\\esteb\\OneDrive\\Escritorio\\ViveroProgram\\OblP3ViveroPrimera\\ViveroProgram.csproj",
         "projectName": "ViveroProgram",
-        "projectPath": "C:\\Users\\esteb\\OneDrive\\Desktop\\OblP31eraVivero 02-04-2022 Hora 13-31\\OblP31eraVivero 02-04-2022 Hora 13-31\\OblP31eraVivero\\ViveroProgram\\OblP3ViveroPrimera\\ViveroProgram.csproj",
+        "projectPath": "C:\\Users\\esteb\\OneDrive\\Escritorio\\ViveroProgram\\OblP3ViveroPrimera\\ViveroProgram.csproj",
         "packagesPath": "C:\\Users\\esteb\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\esteb\\OneDrive\\Desktop\\OblP31eraVivero 02-04-2022 Hora 13-31\\OblP31eraVivero 02-04-2022 Hora 13-31\\OblP31eraVivero\\ViveroProgram\\OblP3ViveroPrimera\\obj\\",
+        "outputPath": "C:\\Users\\esteb\\OneDrive\\Escritorio\\ViveroProgram\\OblP3ViveroPrimera\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\esteb\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -88,11 +88,11 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\esteb\\OneDrive\\Desktop\\OblP31eraVivero 02-04-2022 Hora 13-31\\OblP31eraVivero 02-04-2022 Hora 13-31\\OblP31eraVivero\\ViveroProgram\\Dominio\\Dominio.csproj": {
-                "projectPath": "C:\\Users\\esteb\\OneDrive\\Desktop\\OblP31eraVivero 02-04-2022 Hora 13-31\\OblP31eraVivero 02-04-2022 Hora 13-31\\OblP31eraVivero\\ViveroProgram\\Dominio\\Dominio.csproj"
+              "C:\\Users\\esteb\\OneDrive\\Escritorio\\ViveroProgram\\Dominio\\Dominio.csproj": {
+                "projectPath": "C:\\Users\\esteb\\OneDrive\\Escritorio\\ViveroProgram\\Dominio\\Dominio.csproj"
               },
-              "C:\\Users\\esteb\\OneDrive\\Desktop\\OblP31eraVivero 02-04-2022 Hora 13-31\\OblP31eraVivero 02-04-2022 Hora 13-31\\OblP31eraVivero\\ViveroProgram\\Repositorios\\Repositorios.csproj": {
-                "projectPath": "C:\\Users\\esteb\\OneDrive\\Desktop\\OblP31eraVivero 02-04-2022 Hora 13-31\\OblP31eraVivero 02-04-2022 Hora 13-31\\OblP31eraVivero\\ViveroProgram\\Repositorios\\Repositorios.csproj"
+              "C:\\Users\\esteb\\OneDrive\\Escritorio\\ViveroProgram\\Repositorios\\Repositorios.csproj": {
+                "projectPath": "C:\\Users\\esteb\\OneDrive\\Escritorio\\ViveroProgram\\Repositorios\\Repositorios.csproj"
               }
             }
           }
@@ -127,18 +127,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.406\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.407\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\esteb\\OneDrive\\Desktop\\OblP31eraVivero 02-04-2022 Hora 13-31\\OblP31eraVivero 02-04-2022 Hora 13-31\\OblP31eraVivero\\ViveroProgram\\Repositorios\\Repositorios.csproj": {
+    "C:\\Users\\esteb\\OneDrive\\Escritorio\\ViveroProgram\\Repositorios\\Repositorios.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\esteb\\OneDrive\\Desktop\\OblP31eraVivero 02-04-2022 Hora 13-31\\OblP31eraVivero 02-04-2022 Hora 13-31\\OblP31eraVivero\\ViveroProgram\\Repositorios\\Repositorios.csproj",
+        "projectUniqueName": "C:\\Users\\esteb\\OneDrive\\Escritorio\\ViveroProgram\\Repositorios\\Repositorios.csproj",
         "projectName": "Repositorios",
-        "projectPath": "C:\\Users\\esteb\\OneDrive\\Desktop\\OblP31eraVivero 02-04-2022 Hora 13-31\\OblP31eraVivero 02-04-2022 Hora 13-31\\OblP31eraVivero\\ViveroProgram\\Repositorios\\Repositorios.csproj",
+        "projectPath": "C:\\Users\\esteb\\OneDrive\\Escritorio\\ViveroProgram\\Repositorios\\Repositorios.csproj",
         "packagesPath": "C:\\Users\\esteb\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\esteb\\OneDrive\\Desktop\\OblP31eraVivero 02-04-2022 Hora 13-31\\OblP31eraVivero 02-04-2022 Hora 13-31\\OblP31eraVivero\\ViveroProgram\\Repositorios\\obj\\",
+        "outputPath": "C:\\Users\\esteb\\OneDrive\\Escritorio\\ViveroProgram\\Repositorios\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\esteb\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -155,8 +155,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\esteb\\OneDrive\\Desktop\\OblP31eraVivero 02-04-2022 Hora 13-31\\OblP31eraVivero 02-04-2022 Hora 13-31\\OblP31eraVivero\\ViveroProgram\\Dominio\\Dominio.csproj": {
-                "projectPath": "C:\\Users\\esteb\\OneDrive\\Desktop\\OblP31eraVivero 02-04-2022 Hora 13-31\\OblP31eraVivero 02-04-2022 Hora 13-31\\OblP31eraVivero\\ViveroProgram\\Dominio\\Dominio.csproj"
+              "C:\\Users\\esteb\\OneDrive\\Escritorio\\ViveroProgram\\Dominio\\Dominio.csproj": {
+                "projectPath": "C:\\Users\\esteb\\OneDrive\\Escritorio\\ViveroProgram\\Dominio\\Dominio.csproj"
               }
             }
           }
@@ -174,6 +174,14 @@
             "Microsoft.Data.SqlClient": {
               "target": "Package",
               "version": "[4.1.0, )"
+            },
+            "Microsoft.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[3.1.24, )"
+            },
+            "Microsoft.Extensions.Configuration.Json": {
+              "target": "Package",
+              "version": "[3.1.24, )"
             }
           },
           "imports": [
@@ -191,7 +199,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.406\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.407\\RuntimeIdentifierGraph.json"
         }
       }
     }
